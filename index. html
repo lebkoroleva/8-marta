@@ -1,1828 +1,1689 @@
-<!-- ===== FALLING FLOWERS ===== -->
-<div class="falling-flowers">
-  <div class="falling-flower">🌸</div>
-  <div class="falling-flower">🌼</div>
-  <div class="falling-flower">🌷</div>
-  <div class="falling-flower">🌸</div>
-  <div class="falling-flower">💐</div>
-  <div class="falling-flower">🌼</div>
-  <div class="falling-flower">🌷</div>
-  <div class="falling-flower">🌸</div>
-  <div class="falling-flower">🌺</div>
-  <div class="falling-flower">🌼</div>
-  <div class="falling-flower">🌷</div>
-  <div class="falling-flower">🌸</div>
-  <div class="falling-flower">💮</div>
-  <div class="falling-flower">🌼</div>
-  <div class="falling-flower">🌷</div>
-</div>
-
-<!-- ===== FLOATING POLLEN ===== -->
-<div class="pollen-container">
-  <div class="pollen"></div>
-  <div class="pollen"></div>
-  <div class="pollen"></div>
-  <div class="pollen"></div>
-  <div class="pollen"></div>
-  <div class="pollen"></div>
-  <div class="pollen"></div>
-  <div class="pollen"></div>
-  <div class="pollen"></div>
-  <div class="pollen"></div>
-  <div class="pollen"></div>
-  <div class="pollen"></div>
-</div>
-
-<!-- ===== BACKGROUND MIMOSA - LEFT ===== -->
-<div class="bg-mimosa left">
-  <svg width="280" height="400" viewBox="0 0 280 400" fill="none">
-    <path d="M20 400 Q40 320,70 260 Q90 220,110 180 Q125 150,140 115 Q155 80,170 40" stroke="#5A613B" stroke-width="2" stroke-linecap="round" fill="none" />
-    <ellipse cx="85" cy="235" rx="25" ry="6" transform="rotate(-35 85 235)" fill="#5A613B" opacity="0.4" />
-    <ellipse cx="120" cy="165" rx="22" ry="5" transform="rotate(-45 120 165)" fill="#5A613B" opacity="0.4" />
-    <ellipse cx="60" cy="280" rx="20" ry="5" transform="rotate(-25 60 280)" fill="#5A613B" opacity="0.3" />
-    <circle cx="170" cy="40" r="6" fill="#F5D76B" opacity="0.9" />
-    <circle cx="158" cy="58" r="5" fill="#EAC403" opacity="0.85" />
-    <circle cx="178" cy="65" r="4" fill="#F5D76B" opacity="0.8" />
-    <circle cx="148" cy="78" r="6" fill="#F5D76B" opacity="0.9" />
-    <circle cx="165" cy="88" r="4" fill="#EAC403" opacity="0.75" />
-    <circle cx="138" cy="102" r="5" fill="#F5D76B" opacity="0.85" />
-    <circle cx="152" cy="115" r="4" fill="#EAC403" opacity="0.7" />
-    <circle cx="125" cy="130" r="5" fill="#F5D76B" opacity="0.85" />
-    <circle cx="140" cy="145" r="4" fill="#F5D76B" opacity="0.8" />
-    <circle cx="115" cy="162" r="4" fill="#EAC403" opacity="0.75" />
-    <circle cx="98" cy="180" r="5" fill="#F5D76B" opacity="0.8" />
-    <circle cx="112" cy="195" r="4" fill="#EAC403" opacity="0.7" />
-    <circle cx="85" cy="215" r="4" fill="#F5D76B" opacity="0.75" />
-    <circle cx="72" cy="235" r="5" fill="#F5D76B" opacity="0.8" />
-    <circle cx="88" cy="248" r="3" fill="#EAC403" opacity="0.65" />
-    <circle cx="62" cy="268" r="4" fill="#F5D76B" opacity="0.75" />
-    <circle cx="48" cy="290" r="4" fill="#F5D76B" opacity="0.8" />
-    <circle cx="65" cy="302" r="3" fill="#EAC403" opacity="0.6" />
-    <circle cx="40" cy="320" r="4" fill="#F5D76B" opacity="0.7" />
-    <circle cx="28" cy="345" r="3" fill="#EAC403" opacity="0.6" />
-  </svg>
-</div>
-
-<!-- ===== BACKGROUND MIMOSA - RIGHT ===== -->
-<div class="bg-mimosa right">
-  <svg width="260" height="380" viewBox="0 0 260 380" fill="none">
-    <path d="M240 380 Q220 300,190 240 Q170 200,150 160 Q135 130,120 95 Q105 60,90 20" stroke="#5A613B" stroke-width="2" stroke-linecap="round" fill="none" />
-    <ellipse cx="175" cy="215" rx="23" ry="5" transform="rotate(35 175 215)" fill="#5A613B" opacity="0.4" />
-    <ellipse cx="140" cy="145" rx="20" ry="5" transform="rotate(45 140 145)" fill="#5A613B" opacity="0.4" />
-    <ellipse cx="200" cy="260" rx="22" ry="5" transform="rotate(25 200 260)" fill="#5A613B" opacity="0.3" />
-    <circle cx="90" cy="20" r="6" fill="#F5D76B" opacity="0.9" />
-    <circle cx="102" cy="38" r="5" fill="#EAC403" opacity="0.85" />
-    <circle cx="82" cy="45" r="4" fill="#F5D76B" opacity="0.8" />
-    <circle cx="112" cy="58" r="6" fill="#F5D76B" opacity="0.9" />
-    <circle cx="95" cy="68" r="4" fill="#EAC403" opacity="0.75" />
-    <circle cx="122" cy="82" r="5" fill="#F5D76B" opacity="0.85" />
-    <circle cx="108" cy="95" r="4" fill="#EAC403" opacity="0.7" />
-    <circle cx="135" cy="110" r="5" fill="#F5D76B" opacity="0.85" />
-    <circle cx="120" cy="125" r="4" fill="#F5D76B" opacity="0.8" />
-    <circle cx="145" cy="142" r="4" fill="#EAC403" opacity="0.75" />
-    <circle cx="162" cy="160" r="5" fill="#F5D76B" opacity="0.8" />
-    <circle cx="148" cy="175" r="4" fill="#EAC403" opacity="0.7" />
-    <circle cx="175" cy="195" r="4" fill="#F5D76B" opacity="0.75" />
-    <circle cx="188" cy="215" r="5" fill="#F5D76B" opacity="0.8" />
-    <circle cx="172" cy="228" r="3" fill="#EAC403" opacity="0.65" />
-    <circle cx="198" cy="248" r="4" fill="#F5D76B" opacity="0.75" />
-    <circle cx="212" cy="270" r="4" fill="#F5D76B" opacity="0.8" />
-    <circle cx="195" cy="282" r="3" fill="#EAC403" opacity="0.6" />
-    <circle cx="220" cy="300" r="4" fill="#F5D76B" opacity="0.7" />
-    <circle cx="232" cy="325" r="3" fill="#EAC403" opacity="0.6" />
-  </svg>
-</div>
-
-<!-- ===== CORNER FLOWERS - FOREGROUND ===== -->
-<div class="corner-flower left">
-  <svg width="220" height="320" viewBox="0 0 220 320" fill="none">
-    <path d="M10 320 Q30 240,60 180 Q80 140,100 100 Q115 70,130 35" stroke="#5A613B" stroke-width="3" stroke-linecap="round" />
-    <ellipse cx="75" cy="155" rx="20" ry="5" transform="rotate(-35 75 155)" fill="#5A613B" opacity="0.3" />
-    <ellipse cx="105" cy="95" rx="18" ry="4" transform="rotate(-45 105 95)" fill="#5A613B" opacity="0.3" />
-    <ellipse cx="55" cy="195" rx="18" ry="4" transform="rotate(-25 55 195)" fill="#5A613B" opacity="0.25" />
-    <circle cx="130" cy="35" r="8" fill="#F5D76B" opacity="0.85" />
-    <circle cx="118" cy="50" r="7" fill="#EAC403" opacity="0.8" />
-    <circle cx="138" cy="55" r="6" fill="#F5D76B" opacity="0.75" />
-    <circle cx="110" cy="65" r="8" fill="#F5D76B" opacity="0.85" />
-    <circle cx="128" cy="72" r="6" fill="#EAC403" opacity="0.7" />
-    <circle cx="100" cy="80" r="7" fill="#F5D76B" opacity="0.8" />
-    <circle cx="115" cy="88" r="5" fill="#EAC403" opacity="0.65" />
-    <circle cx="90" cy="95" r="7" fill="#F5D76B" opacity="0.8" />
-    <circle cx="105" cy="102" r="6" fill="#F5D76B" opacity="0.75" />
-    <circle cx="80" cy="115" r="6" fill="#EAC403" opacity="0.7" />
-    <circle cx="70" cy="130" r="7" fill="#F5D76B" opacity="0.75" />
-    <circle cx="85" cy="135" r="5" fill="#EAC403" opacity="0.6" />
-    <circle cx="60" cy="148" r="6" fill="#F5D76B" opacity="0.7" />
-    <circle cx="50" cy="165" r="7" fill="#F5D76B" opacity="0.75" />
-    <circle cx="65" cy="170" r="5" fill="#EAC403" opacity="0.6" />
-    <circle cx="42" cy="185" r="6" fill="#F5D76B" opacity="0.7" />
-    <circle cx="35" cy="200" r="5" fill="#EAC403" opacity="0.6" />
-  </svg>
-</div>
-
-<div class="corner-flower right">
-  <svg width="200" height="300" viewBox="0 0 200 300" fill="none">
-    <path d="M140 300 L140 130" stroke="#5A613B" stroke-width="3" stroke-linecap="round" />
-    <path d="M140 200 Q110 180,100 210" stroke="#5A613B" stroke-width="2" />
-    <ellipse cx="105" cy="205" rx="12" ry="5" fill="#5A613B" opacity="0.3" />
-    <path d="M140 130 Q140 70,110 50 Q100 45,105 65 Q108 85,140 130" fill="#EF5350" opacity="0.7" />
-    <path d="M140 130 Q140 70,170 50 Q180 45,175 65 Q172 85,140 130" fill="#E53935" opacity="0.6" />
-    <path d="M140 130 Q140 65,140 40 Q135 33,132 55 Q134 85,140 130" fill="#F44336" opacity="0.65" />
-    <path d="M70 300 L70 150" stroke="#5A613B" stroke-width="3" stroke-linecap="round" />
-    <path d="M70 230 Q100 210,108 240" stroke="#5A613B" stroke-width="2" />
-    <ellipse cx="103" cy="235" rx="10" ry="4" fill="#5A613B" opacity="0.3" />
-    <path d="M70 150 Q70 90,42 70 Q33 65,38 85 Q42 105,70 150" fill="#F5D76B" opacity="0.75" />
-    <path d="M70 150 Q70 90,98 70 Q107 65,102 85 Q98 105,70 150" fill="#EAC403" opacity="0.65" />
-    <path d="M70 150 Q70 85,70 60 Q66 53,63 75 Q65 100,70 150" fill="#F5D76B" opacity="0.7" />
-    <path d="M175 300 L175 180" stroke="#5A613B" stroke-width="2.5" stroke-linecap="round" />
-    <path d="M175 180 Q175 135,155 118 Q148 114,152 132 Q156 148,175 180" fill="#EC407A" opacity="0.6" />
-    <path d="M175 180 Q175 135,195 118 Q202 114,198 132 Q194 148,175 180" fill="#F06292" opacity="0.55" />
-    <path d="M175 180 Q175 130,175 112 Q172 106,169 125 Q170 148,175 180" fill="#E91E63" opacity="0.6" />
-  </svg>
-</div>
-
-<!-- HERO -->
-<div class="hero">
-  <h1>История 8 Марта</h1>
-  <p class="subtitle">От борьбы за права — к празднику весны и любви</p>
-  <div class="hand-divider"></div>
-</div>
-
-<!-- EVOLUTION -->
-<div class="evolution-section">
-  <h2 class="section-title">Эволюция праздника</h2>
-  <div class="evolution-bar">
-    <div class="evolution-stage"><span class="stage-icon">&#9994;</span><span class="stage-label">Борьба</span></div>
-    <span class="arrow">&#8594;</span>
-    <div class="evolution-stage"><span class="stage-icon">&#9878;</span><span class="stage-label">Права</span></div>
-    <span class="arrow">&#8594;</span>
-    <div class="evolution-stage"><span class="stage-icon">&#127963;</span><span class="stage-label">Политика</span></div>
-    <span class="arrow">&#8594;</span>
-    <div class="evolution-stage"><span class="stage-icon">&#127799;</span><span class="stage-label">Весна</span></div>
-    <span class="arrow">&#8594;</span>
-    <div class="evolution-stage"><span class="stage-icon">&#10084;</span><span class="stage-label">Любовь</span></div>
-  </div>
-</div>
-
-<!-- TIMELINE -->
-<div class="timeline-section">
-  <h2 class="section-title">Ключевые даты</h2>
-  <div class="timeline-scroll-wrapper">
-    <div class="timeline-track" id="timelineTrack"></div>
-  </div>
-  <div class="scroll-hint">&#8592; Листай горизонтально &#8594;</div>
-</div>
-
-<!-- INFO CARD -->
-<div class="info-card-wrapper">
-  <div class="info-card" id="infoCard">
-    <div id="infoCardContent"></div>
-    <button class="close-info" onclick="closeInfo()">Закрыть</button>
-  </div>
-</div>
-
-<!-- FACTS -->
-<div class="facts-section">
-  <h2 class="section-title">Интересные факты</h2>
-  <div class="facts-grid">
-    <div class="fact-card"><span class="fact-icon">&#127799;</span>
-      <div class="fact-text">В России к 8 марта продаётся более <strong>100 миллионов</strong> цветов. Тюльпаны — лидер продаж.</div>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>История 8 Марта</title>
+    <style>
+        @import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&family=Inter:wght@400;500;600;700;800&display=swap");
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: "Inter", sans-serif;
+            background-color: #bcc4b9;
+            min-height: 100vh;
+            overflow-x: hidden;
+            color: #2c2f1e;
+            font-size: 18px;
+            position: relative;
+        }
+        /* ========== BACKGROUND MIMOSA BRANCHES ========== */
+        .bg-mimosa {
+            position: fixed;
+            z-index: 0;
+            pointer-events: none;
+            opacity: 0.12;
+            animation: sway 8s ease-in-out infinite alternate;
+        }
+        .bg-mimosa.left {
+            bottom: 0;
+            left: 5%;
+            transform-origin: bottom left;
+            animation-delay: 0s;
+        }
+        .bg-mimosa.right {
+            bottom: 0;
+            right: 8%;
+            transform-origin: bottom right;
+            animation-delay: -4s;
+        }
+        @keyframes sway {
+            0% {
+                transform: rotate(-0.5deg) translateX(0);
+            }
+            100% {
+                transform: rotate(0.8deg) translateX(3px);
+            }
+        }
+        /* ========== FLOATING POLLEN ========== */
+        .pollen-container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 1;
+            overflow: hidden;
+        }
+        .pollen {
+            position: absolute;
+            width: 4px;
+            height: 4px;
+            background: radial-gradient(
+                circle,
+                #f5d76b 0%,
+                #eac403 60%,
+                transparent 100%
+            );
+            border-radius: 50%;
+            opacity: 0;
+            animation: float-pollen 15s ease-in-out infinite;
+            filter: blur(0.5px);
+        }
+        .pollen:nth-child(1) {
+            left: 10%;
+            top: 20%;
+            animation-delay: 0s;
+            animation-duration: 18s;
+            width: 5px;
+            height: 5px;
+        }
+        .pollen:nth-child(2) {
+            left: 25%;
+            top: 10%;
+            animation-delay: -3s;
+            animation-duration: 22s;
+            width: 3px;
+            height: 3px;
+        }
+        .pollen:nth-child(3) {
+            left: 40%;
+            top: 30%;
+            animation-delay: -6s;
+            animation-duration: 16s;
+            width: 6px;
+            height: 6px;
+        }
+        .pollen:nth-child(4) {
+            left: 60%;
+            top: 15%;
+            animation-delay: -9s;
+            animation-duration: 20s;
+            width: 4px;
+            height: 4px;
+        }
+        .pollen:nth-child(5) {
+            left: 75%;
+            top: 25%;
+            animation-delay: -12s;
+            animation-duration: 19s;
+            width: 5px;
+            height: 5px;
+        }
+        .pollen:nth-child(6) {
+            left: 90%;
+            top: 35%;
+            animation-delay: -2s;
+            animation-duration: 17s;
+            width: 3px;
+            height: 3px;
+        }
+        .pollen:nth-child(7) {
+            left: 15%;
+            top: 50%;
+            animation-delay: -5s;
+            animation-duration: 21s;
+            width: 4px;
+            height: 4px;
+        }
+        .pollen:nth-child(8) {
+            left: 50%;
+            top: 45%;
+            animation-delay: -8s;
+            animation-duration: 23s;
+            width: 5px;
+            height: 5px;
+        }
+        .pollen:nth-child(9) {
+            left: 80%;
+            top: 55%;
+            animation-delay: -11s;
+            animation-duration: 18s;
+            width: 3px;
+            height: 3px;
+        }
+        .pollen:nth-child(10) {
+            left: 30%;
+            top: 70%;
+            animation-delay: -4s;
+            animation-duration: 20s;
+            width: 4px;
+            height: 4px;
+        }
+        .pollen:nth-child(11) {
+            left: 55%;
+            top: 65%;
+            animation-delay: -7s;
+            animation-duration: 19s;
+            width: 5px;
+            height: 5px;
+        }
+        .pollen:nth-child(12) {
+            left: 85%;
+            top: 80%;
+            animation-delay: -10s;
+            animation-duration: 22s;
+            width: 3px;
+            height: 3px;
+        }
+        @keyframes float-pollen {
+            0% {
+                opacity: 0;
+                transform: translateY(100vh) translateX(0) scale(0.8);
+            }
+            10% {
+                opacity: 0.7;
+            }
+            50% {
+                opacity: 1;
+                transform: translateY(50vh) translateX(20px) scale(1);
+            }
+            90% {
+                opacity: 0.6;
+            }
+            100% {
+                opacity: 0;
+                transform: translateY(-20vh) translateX(-15px) scale(0.9);
+            }
+        }
+        /* ========== FALLING FLOWERS ========== */
+        .falling-flowers {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 1;
+            overflow: hidden;
+        }
+        .falling-flower {
+            position: absolute;
+            top: -30px;
+            font-size: 20px;
+            opacity: 0;
+            animation: fall-flower linear infinite;
+            filter: drop-shadow(0 2px 4px rgba(90, 97, 59, 0.2));
+        }
+        .falling-flower:nth-child(1) {
+            left: 5%;
+            animation-delay: 0s;
+            animation-duration: 12s;
+            font-size: 18px;
+        }
+        .falling-flower:nth-child(2) {
+            left: 12%;
+            animation-delay: -3s;
+            animation-duration: 15s;
+            font-size: 22px;
+        }
+        .falling-flower:nth-child(3) {
+            left: 20%;
+            animation-delay: -6s;
+            animation-duration: 11s;
+            font-size: 16px;
+        }
+        .falling-flower:nth-child(4) {
+            left: 28%;
+            animation-delay: -9s;
+            animation-duration: 14s;
+            font-size: 24px;
+        }
+        .falling-flower:nth-child(5) {
+            left: 35%;
+            animation-delay: -12s;
+            animation-duration: 13s;
+            font-size: 20px;
+        }
+        .falling-flower:nth-child(6) {
+            left: 42%;
+            animation-delay: -2s;
+            animation-duration: 16s;
+            font-size: 18px;
+        }
+        .falling-flower:nth-child(7) {
+            left: 50%;
+            animation-delay: -5s;
+            animation-duration: 12s;
+            font-size: 22px;
+        }
+        .falling-flower:nth-child(8) {
+            left: 58%;
+            animation-delay: -8s;
+            animation-duration: 14s;
+            font-size: 16px;
+        }
+        .falling-flower:nth-child(9) {
+            left: 65%;
+            animation-delay: -11s;
+            animation-duration: 15s;
+            font-size: 24px;
+        }
+        .falling-flower:nth-child(10) {
+            left: 72%;
+            animation-delay: -4s;
+            animation-duration: 13s;
+            font-size: 20px;
+        }
+        .falling-flower:nth-child(11) {
+            left: 80%;
+            animation-delay: -7s;
+            animation-duration: 11s;
+            font-size: 18px;
+        }
+        .falling-flower:nth-child(12) {
+            left: 88%;
+            animation-delay: -10s;
+            animation-duration: 16s;
+            font-size: 22px;
+        }
+        .falling-flower:nth-child(13) {
+            left: 15%;
+            animation-delay: -1s;
+            animation-duration: 14s;
+            font-size: 16px;
+        }
+        .falling-flower:nth-child(14) {
+            left: 45%;
+            animation-delay: -4s;
+            animation-duration: 12s;
+            font-size: 20px;
+        }
+        .falling-flower:nth-child(15) {
+            left: 75%;
+            animation-delay: -7s;
+            animation-duration: 15s;
+            font-size: 18px;
+        }
+        @keyframes fall-flower {
+            0% {
+                opacity: 0;
+                transform: translateY(-30px) rotate(0deg) translateX(0);
+            }
+            10% {
+                opacity: 0.8;
+            }
+            50% {
+                opacity: 1;
+                transform: translateY(50vh) rotate(180deg) translateX(30px);
+            }
+            90% {
+                opacity: 0.7;
+            }
+            100% {
+                opacity: 0;
+                transform: translateY(100vh) rotate(360deg) translateX(-20px);
+            }
+        }
+        /* ========== CORNER FLOWERS ========== */
+        .corner-flower {
+            position: fixed;
+            z-index: 2;
+            pointer-events: none;
+        }
+        .corner-flower.left {
+            top: 0;
+            left: 0;
+        }
+        .corner-flower.right {
+            top: 0;
+            right: 0;
+        }
+        /* ========== HERO ========== */
+        .hero {
+            text-align: center;
+            padding: 80px 20px 40px;
+            position: relative;
+            z-index: 2;
+        }
+        .hero h1 {
+            font-family: "Caveat", cursive;
+            font-size: 4em;
+            font-weight: 700;
+            color: #3a3f25;
+            margin-bottom: 12px;
+            text-shadow: 0 2px 15px rgba(245, 215, 107, 0.3);
+            animation: fadeInDown 0.8s ease;
+        }
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        .hero .subtitle {
+            font-size: 1.2em;
+            color: #5a613b;
+            animation: fadeInUp 0.8s ease 0.2s both;
+        }
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        .hand-divider {
+            display: block;
+            margin: 25px auto;
+            width: 180px;
+            height: 3px;
+            background: linear-gradient(90deg, transparent, #b78002, transparent);
+            border-radius: 2px;
+            animation: expandWidth 1s ease 0.4s both;
+        }
+        @keyframes expandWidth {
+            from {
+                width: 0;
+                opacity: 0;
+            }
+            to {
+                width: 180px;
+                opacity: 1;
+            }
+        }
+        /* ========== EVOLUTION ========== */
+        .evolution-section {
+            max-width: 900px;
+            margin: 0 auto 40px;
+            padding: 20px;
+            position: relative;
+            z-index: 2;
+            animation: fadeInUp 0.8s ease 0.3s both;
+        }
+        .section-title {
+            text-align: center;
+            font-family: "Caveat", cursive;
+            font-size: 2.4em;
+            color: #3a3f25;
+            margin-bottom: 25px;
+        }
+        .evolution-bar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background: rgba(255, 255, 255, 0.45);
+            border: 1.5px solid rgba(90, 97, 59, 0.2);
+            border-radius: 60px;
+            padding: 18px 30px;
+            box-shadow: 0 4px 20px rgba(90, 97, 59, 0.08);
+        }
+        .evolution-stage {
+            text-align: center;
+            flex: 1;
+            transition: transform 0.3s ease;
+        }
+        .evolution-stage:hover {
+            transform: translateY(-3px);
+        }
+        .evolution-stage:hover .stage-icon {
+            transform: scale(1.2) rotate(5deg);
+        }
+        .evolution-stage .stage-icon {
+            font-size: 2em;
+            display: block;
+            transition: transform 0.3s ease;
+        }
+        .evolution-stage .stage-label {
+            font-family: "Caveat", cursive;
+            font-size: 1.1em;
+            color: #5a613b;
+            font-weight: 600;
+            margin-top: 5px;
+        }
+        .arrow {
+            font-size: 1.5em;
+            color: #b78002;
+            opacity: 0.4;
+            animation: pulse 2s ease-in-out infinite;
+        }
+        @keyframes pulse {
+            0%,
+            100% {
+                opacity: 0.3;
+                transform: scale(1);
+            }
+            50% {
+                opacity: 0.6;
+                transform: scale(1.1);
+            }
+        }
+        /* ========== TIMELINE ========== */
+        .timeline-section {
+            position: relative;
+            z-index: 2;
+            padding: 40px 0 30px;
+        }
+        .timeline-scroll-wrapper {
+            overflow-x: auto;
+            overflow-y: visible;
+            padding: 30px 40px 50px;
+            scrollbar-width: thin;
+            scrollbar-color: #b78002 rgba(202, 209, 201, 0.5);
+        }
+        .timeline-scroll-wrapper::-webkit-scrollbar {
+            height: 6px;
+        }
+        .timeline-scroll-wrapper::-webkit-scrollbar-track {
+            background: rgba(202, 209, 201, 0.5);
+        }
+        .timeline-scroll-wrapper::-webkit-scrollbar-thumb {
+            background: #b78002;
+            border-radius: 3px;
+        }
+        .timeline-track {
+            display: flex;
+            align-items: center;
+            position: relative;
+            min-width: max-content;
+            padding: 0 20px;
+        }
+        .timeline-track::before {
+            content: "";
+            position: absolute;
+            top: 65px;
+            left: 40px;
+            height: 3px;
+            background: repeating-linear-gradient(
+                to right,
+                rgba(183, 128, 2, 0.5) 0px,
+                rgba(183, 128, 2, 0.5) 12px,
+                transparent 12px,
+                transparent 22px
+            );
+            width: 0;
+            animation: drawLine 2.5s ease-out forwards 0.5s;
+        }
+        @keyframes drawLine {
+            to {
+                width: calc(100% - 80px);
+            }
+        }
+        /* ===== CIRCLE NODE ===== */
+        .timeline-node {
+            position: relative;
+            z-index: 2;
+            margin: 0 20px;
+            flex-shrink: 0;
+            animation: popIn 0.5s ease both;
+        }
+        .timeline-node:nth-child(1) {
+            animation-delay: 0.6s;
+        }
+        .timeline-node:nth-child(2) {
+            animation-delay: 0.7s;
+        }
+        .timeline-node:nth-child(3) {
+            animation-delay: 0.8s;
+        }
+        .timeline-node:nth-child(4) {
+            animation-delay: 0.9s;
+        }
+        .timeline-node:nth-child(5) {
+            animation-delay: 1s;
+        }
+        .timeline-node:nth-child(6) {
+            animation-delay: 1.1s;
+        }
+        .timeline-node:nth-child(7) {
+            animation-delay: 1.2s;
+        }
+        .timeline-node:nth-child(8) {
+            animation-delay: 1.3s;
+        }
+        .timeline-node:nth-child(9) {
+            animation-delay: 1.4s;
+        }
+        @keyframes popIn {
+            0% {
+                opacity: 0;
+                transform: scale(0.5);
+            }
+            60% {
+                transform: scale(1.1);
+            }
+            100% {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+        .timeline-circle {
+            width: 130px;
+            height: 130px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.75);
+            border: 3px solid rgba(183, 128, 2, 0.45);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            box-shadow: 0 4px 15px rgba(90, 97, 59, 0.1);
+        }
+        .timeline-circle:hover {
+            transform: scale(1.1);
+            border-color: #eac403;
+            background: rgba(245, 215, 107, 0.3);
+            box-shadow: 0 0 25px rgba(234, 196, 3, 0.3);
+        }
+        .timeline-circle.active {
+            border-color: #eac403;
+            background: rgba(245, 215, 107, 0.35);
+            box-shadow: 0 0 30px rgba(234, 196, 3, 0.4);
+            transform: scale(1.08);
+        }
+        .timeline-circle .circle-year {
+            font-family: "Caveat", cursive;
+            font-size: 1.8em;
+            font-weight: 700;
+            color: #3a3f25;
+            line-height: 1;
+        }
+        .timeline-circle .circle-era {
+            font-size: 0.5em;
+            color: #5a613b;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 600;
+            margin-top: 3px;
+        }
+        .timeline-circle .circle-hint {
+            font-family: "Caveat", cursive;
+            font-size: 0.55em;
+            color: #b78002;
+            margin-top: 4px;
+            opacity: 0.7;
+            transition: opacity 0.3s;
+        }
+        .timeline-circle:hover .circle-hint {
+            opacity: 1;
+        }
+        .scroll-hint {
+            text-align: center;
+            color: #5a613b;
+            font-size: 0.85em;
+            margin-top: 10px;
+            opacity: 0.6;
+            animation: bounce 2s infinite;
+        }
+        @keyframes bounce {
+            0%,
+            100% {
+                transform: translateX(0);
+            }
+            50% {
+                transform: translateX(8px);
+            }
+        }
+        /* ========== INFO CARD ========== */
+        .info-card-wrapper {
+            max-width: 750px;
+            margin: 0 auto;
+            padding: 0 20px 40px;
+            position: relative;
+            z-index: 2;
+        }
+        .info-card {
+            background: rgba(255, 255, 255, 0.7);
+            border: 2px solid rgba(183, 128, 2, 0.3);
+            border-radius: 16px;
+            padding: 30px;
+            box-shadow: 0 8px 30px rgba(90, 97, 59, 0.1);
+            display: none;
+            animation: fadeSlideIn 0.4s ease;
+        }
+        .info-card.show {
+            display: block;
+        }
+        @keyframes fadeSlideIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        .info-card .info-header {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+        .info-card .info-year {
+            font-family: "Caveat", cursive;
+            font-size: 2.8em;
+            font-weight: 700;
+            color: #3a3f25;
+            line-height: 1;
+        }
+        .info-card .info-era {
+            display: inline-block;
+            padding: 3px 12px;
+            border: 1.5px solid rgba(90, 97, 59, 0.25);
+            border-radius: 4px;
+            font-size: 0.7em;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #5a613b;
+            background: rgba(245, 215, 107, 0.15);
+        }
+        .info-card .info-title {
+            font-size: 1.3em;
+            font-weight: 700;
+            color: #3a3f25;
+            margin-bottom: 12px;
+            line-height: 1.3;
+        }
+        .info-card .info-desc {
+            font-size: 1em;
+            color: #5a613b;
+            line-height: 1.8;
+            margin-bottom: 12px;
+        }
+        .info-card .info-details {
+            padding: 15px 18px;
+            background: rgba(245, 215, 107, 0.1);
+            border-left: 3px solid #eac403;
+            border-radius: 0 8px 8px 0;
+        }
+        .info-card .info-details p {
+            font-size: 0.95em;
+            color: #5a613b;
+            line-height: 1.8;
+            font-style: italic;
+        }
+        .info-card .close-info {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 25px;
+            background: #5a613b;
+            color: #fff;
+            border: none;
+            border-radius: 8px;
+            font-size: 0.9em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        .info-card .close-info:hover {
+            background: #b78002;
+        }
+        /* ========== FACTS ========== */
+        .facts-section {
+            max-width: 950px;
+            margin: 40px auto;
+            padding: 20px;
+            z-index: 2;
+            position: relative;
+        }
+        .facts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+            gap: 20px;
+        }
+        .fact-card {
+            background: rgba(255, 255, 255, 0.55);
+            border: 1.5px solid rgba(90, 97, 59, 0.15);
+            border-radius: 12px;
+            padding: 25px;
+            text-align: center;
+            transition: all 0.3s;
+            box-shadow: 0 2px 12px rgba(90, 97, 59, 0.06);
+            animation: fadeInUp 0.6s ease both;
+        }
+        .fact-card:nth-child(1) {
+            animation-delay: 0.1s;
+        }
+        .fact-card:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+        .fact-card:nth-child(3) {
+            animation-delay: 0.3s;
+        }
+        .fact-card:nth-child(4) {
+            animation-delay: 0.4s;
+        }
+        .fact-card:nth-child(5) {
+            animation-delay: 0.5s;
+        }
+        .fact-card:nth-child(6) {
+            animation-delay: 0.6s;
+        }
+        .fact-card:hover {
+            transform: translateY(-4px);
+            border-color: rgba(234, 196, 3, 0.4);
+            box-shadow: 0 8px 25px rgba(90, 97, 59, 0.12);
+        }
+        .fact-card .fact-icon {
+            font-size: 2.2em;
+            margin-bottom: 10px;
+            display: block;
+            animation: float-icon 3s ease-in-out infinite;
+        }
+        .fact-card:nth-child(odd) .fact-icon {
+            animation-delay: 0s;
+        }
+        .fact-card:nth-child(even) .fact-icon {
+            animation-delay: -1.5s;
+        }
+        @keyframes float-icon {
+            0%,
+            100% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(-5px);
+            }
+        }
+        .fact-card .fact-text {
+            color: #5a613b;
+            line-height: 1.7;
+            font-size: 0.95em;
+        }
+        .fact-card .fact-text strong {
+            color: #3a3f25;
+        }
+        /* ========== QUIZ ========== */
+        .quiz-section {
+            max-width: 700px;
+            margin: 40px auto;
+            padding: 20px;
+            z-index: 2;
+            position: relative;
+        }
+        .quiz-card {
+            background: rgba(255, 255, 255, 0.55);
+            border: 1.5px solid rgba(90, 97, 59, 0.15);
+            border-radius: 16px;
+            padding: 30px;
+            box-shadow: 0 4px 20px rgba(90, 97, 59, 0.08);
+            position: relative;
+            overflow: hidden;
+            animation: fadeInUp 0.8s ease 0.2s both;
+        }
+        .quiz-card::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(
+                90deg,
+                #5a613b,
+                #eac403,
+                #b78002,
+                #eac403,
+                #5a613b
+            );
+            background-size: 300% 100%;
+            animation: gradientShift 4s ease infinite;
+        }
+        @keyframes gradientShift {
+            0%,
+            100% {
+                background-position: 0% 50%;
+            }
+            50% {
+                background-position: 100% 50%;
+            }
+        }
+        .quiz-subtitle {
+            text-align: center;
+            color: #5a613b;
+            margin-bottom: 25px;
+            font-size: 0.95em;
+        }
+        .quiz-progress {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 25px;
+        }
+        .quiz-dot {
+            width: 14px;
+            height: 14px;
+            border: 2px solid rgba(90, 97, 59, 0.25);
+            border-radius: 50%;
+            background: transparent;
+            transition: all 0.3s;
+        }
+        .quiz-dot.active {
+            background: #eac403;
+            border-color: #eac403;
+            box-shadow: 0 0 8px rgba(234, 196, 3, 0.4);
+            animation: pulse-dot 1s ease-in-out infinite;
+        }
+        @keyframes pulse-dot {
+            0%,
+            100% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.15);
+            }
+        }
+        .quiz-dot.correct {
+            background: #5a613b;
+            border-color: #5a613b;
+        }
+        .quiz-dot.wrong {
+            background: #c62828;
+            border-color: #c62828;
+        }
+        .quiz-question-text {
+            font-family: "Caveat", cursive;
+            font-size: 1.7em;
+            color: #3a3f25;
+            margin-bottom: 20px;
+            line-height: 1.3;
+        }
+        .quiz-question-text .qnum {
+            color: #b78002;
+            font-weight: 700;
+        }
+        .quiz-options-list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+        .quiz-opt {
+            padding: 14px 18px;
+            border: 1.5px solid rgba(90, 97, 59, 0.2);
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 1em;
+            transition: all 0.2s;
+            background: rgba(255, 255, 255, 0.5);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            color: #3a3f25;
+        }
+        .quiz-opt .opt-letter {
+            width: 30px;
+            height: 30px;
+            border: 2px solid rgba(90, 97, 59, 0.25);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 0.85em;
+            flex-shrink: 0;
+            transition: all 0.2s;
+        }
+        .quiz-opt:hover {
+            background: rgba(245, 215, 107, 0.15);
+            border-color: rgba(183, 128, 2, 0.3);
+            transform: translateX(5px);
+        }
+        .quiz-opt.is-correct {
+            border-color: #5a613b;
+            background: rgba(90, 97, 59, 0.12);
+            animation: correctBounce 0.4s ease;
+        }
+        @keyframes correctBounce {
+            0%,
+            100% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.03);
+            }
+        }
+        .quiz-opt.is-correct .opt-letter {
+            background: #5a613b;
+            color: #fff;
+            border-color: #5a613b;
+        }
+        .quiz-opt.is-wrong {
+            border-color: #c62828;
+            background: rgba(198, 40, 40, 0.06);
+            text-decoration: line-through;
+            opacity: 0.6;
+            animation: shake 0.4s ease;
+        }
+        @keyframes shake {
+            0%,
+            100% {
+                transform: translateX(0);
+            }
+            25% {
+                transform: translateX(-5px);
+            }
+            75% {
+                transform: translateX(5px);
+            }
+        }
+        .quiz-opt.no-click {
+            pointer-events: none;
+        }
+        .quiz-explain {
+            padding: 12px 15px;
+            border-left: 3px solid #eac403;
+            background: rgba(245, 215, 107, 0.08);
+            border-radius: 0 8px 8px 0;
+            font-size: 0.9em;
+            color: #5a613b;
+            line-height: 1.6;
+            margin-bottom: 15px;
+            display: none;
+            animation: slideInLeft 0.3s ease;
+        }
+        @keyframes slideInLeft {
+            from {
+                opacity: 0;
+                transform: translateX(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+        .quiz-explain.visible {
+            display: block;
+        }
+        .quiz-btn {
+            display: none;
+            padding: 12px 30px;
+            background: #5a613b;
+            color: #fff;
+            border: none;
+            border-radius: 10px;
+            font-size: 1em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        .quiz-btn:hover {
+            background: #b78002;
+            transform: translateY(-2px);
+        }
+        .quiz-btn.visible {
+            display: inline-block;
+            animation: fadeInUp 0.3s ease;
+        }
+        .quiz-result {
+            text-align: center;
+            display: none;
+        }
+        .quiz-result.visible {
+            display: block;
+            animation: fadeInUp 0.5s ease;
+        }
+        .result-circle {
+            width: 120px;
+            height: 120px;
+            border: 3px solid #eac403;
+            border-radius: 50%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            margin: 20px auto;
+            box-shadow: 0 0 25px rgba(234, 196, 3, 0.2);
+            background: rgba(245, 215, 107, 0.1);
+            animation: pulse-circle 2s ease-in-out infinite;
+        }
+        @keyframes pulse-circle {
+            0%,
+            100% {
+                box-shadow: 0 0 25px rgba(234, 196, 3, 0.2);
+            }
+            50% {
+                box-shadow: 0 0 40px rgba(234, 196, 3, 0.5);
+            }
+        }
+        .result-num {
+            font-family: "Caveat", cursive;
+            font-size: 2.8em;
+            font-weight: 700;
+            color: #3a3f25;
+            line-height: 1;
+        }
+        .result-of {
+            font-size: 0.85em;
+            color: #5a613b;
+        }
+        .result-msg {
+            font-family: "Caveat", cursive;
+            font-size: 1.5em;
+            color: #b78002;
+            margin: 12px 0;
+        }
+        .restart-btn {
+            padding: 12px 30px;
+            background: transparent;
+            color: #5a613b;
+            border: 2px solid #5a613b;
+            border-radius: 10px;
+            font-size: 1em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .restart-btn:hover {
+            background: #5a613b;
+            color: #fff;
+            transform: translateY(-2px);
+        }
+        /* ========== FOOTER ========== */
+        .footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: #5a613b;
+            position: relative;
+            z-index: 2;
+            border-top: 1px solid rgba(90, 97, 59, 0.15);
+            max-width: 900px;
+            margin: 20px auto 0;
+            animation: fadeInUp 0.8s ease 0.4s both;
+        }
+        .footer .footer-title {
+            font-family: "Caveat", cursive;
+            font-size: 2em;
+            color: #3a3f25;
+            margin-bottom: 8px;
+        }
+        .footer .vibe-tag {
+            display: inline-block;
+            border: 1px solid rgba(90, 97, 59, 0.2);
+            padding: 4px 14px;
+            border-radius: 20px;
+            font-size: 0.7em;
+            margin-top: 10px;
+            color: #5a613b;
+            background: rgba(255, 255, 255, 0.3);
+            animation: glow 3s ease-in-out infinite;
+        }
+        @keyframes glow {
+            0%,
+            100% {
+                box-shadow: 0 0 5px rgba(234, 196, 3, 0.2);
+            }
+            50% {
+                box-shadow: 0 0 15px rgba(234, 196, 3, 0.4);
+            }
+        }
+        /* ========== RESPONSIVE ========== */
+        @media (max-width: 768px) {
+            body {
+                font-size: 16px;
+            }
+            .hero h1 {
+                font-size: 2.8em;
+            }
+            .timeline-circle {
+                width: 100px;
+                height: 100px;
+            }
+            .timeline-circle .circle-year {
+                font-size: 1.4em;
+            }
+            .timeline-node {
+                margin: 0 12px;
+            }
+            .evolution-bar {
+                flex-direction: column;
+                gap: 10px;
+                padding: 18px;
+                border-radius: 20px;
+            }
+            .arrow {
+                transform: rotate(90deg);
+            }
+            .corner-flower.left svg,
+            .corner-flower.right svg {
+                width: 140px;
+                height: auto;
+            }
+            .bg-mimosa.left,
+            .bg-mimosa.right {
+                opacity: 0.08;
+            }
+            .bg-mimosa.left svg,
+            .bg-mimosa.right svg {
+                width: 180px;
+            }
+            .falling-flower {
+                font-size: 14px !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- ===== FALLING FLOWERS ===== -->
+    <div class="falling-flowers">
+        <div class="falling-flower">🌸</div>
+        <div class="falling-flower">🌼</div>
+        <div class="falling-flower">🌷</div>
+        <div class="falling-flower">🌸</div>
+        <div class="falling-flower">💐</div>
+        <div class="falling-flower">🌼</div>
+        <div class="falling-flower">🌷</div>
+        <div class="falling-flower">🌸</div>
+        <div class="falling-flower">🌺</div>
+        <div class="falling-flower">🌼</div>
+        <div class="falling-flower">🌷</div>
+        <div class="falling-flower">🌸</div>
+        <div class="falling-flower">💮</div>
+        <div class="falling-flower">🌼</div>
+        <div class="falling-flower">🌷</div>
     </div>
-    <div class="fact-card"><span class="fact-icon">&#127758;</span>
-      <div class="fact-text">8 марта — выходной день в <strong>27 странах</strong> мира, включая Россию, Грузию, Лаос и Монголию.</div>
+    <!-- ===== FLOATING POLLEN ===== -->
+    <div class="pollen-container">
+        <div class="pollen"></div>
+        <div class="pollen"></div>
+        <div class="pollen"></div>
+        <div class="pollen"></div>
+        <div class="pollen"></div>
+        <div class="pollen"></div>
+        <div class="pollen"></div>
+        <div class="pollen"></div>
+        <div class="pollen"></div>
+        <div class="pollen"></div>
+        <div class="pollen"></div>
+        <div class="pollen"></div>
     </div>
-    <div class="fact-card"><span class="fact-icon">&#128995;</span>
-      <div class="fact-text"><strong>Фиолетовый цвет</strong> — символ Международного женского дня: справедливость и достоинство.</div>
+    <!-- ===== BACKGROUND MIMOSA - LEFT ===== -->
+    <div class="bg-mimosa left">
+        <svg width="280" height="400" viewBox="0 0 280 400" fill="none">
+            <path d="M20 400 Q40 320,70 260 Q90 220,110 180 Q125 150,140 115 Q155 80,170 40" stroke="#5A613B" stroke-width="2" stroke-linecap="round" fill="none" />
+            <ellipse cx="85" cy="235" rx="25" ry="6" transform="rotate(-35 85 235)" fill="#5A613B" opacity="0.4" />
+            <ellipse cx="120" cy="165" rx="22" ry="5" transform="rotate(-45 120 165)" fill="#5A613B" opacity="0.4" />
+            <ellipse cx="60" cy="280" rx="20" ry="5" transform="rotate(-25 60 280)" fill="#5A613B" opacity="0.3" />
+            <circle cx="170" cy="40" r="6" fill="#F5D76B" opacity="0.9" />
+            <circle cx="158" cy="58" r="5" fill="#EAC403" opacity="0.85" />
+            <circle cx="178" cy="65" r="4" fill="#F5D76B" opacity="0.8" />
+            <circle cx="148" cy="78" r="6" fill="#F5D76B" opacity="0.9" />
+            <circle cx="165" cy="88" r="4" fill="#EAC403" opacity="0.75" />
+            <circle cx="138" cy="102" r="5" fill="#F5D76B" opacity="0.85" />
+            <circle cx="152" cy="115" r="4" fill="#EAC403" opacity="0.7" />
+            <circle cx="125" cy="130" r="5" fill="#F5D76B" opacity="0.85" />
+            <circle cx="140" cy="145" r="4" fill="#F5D76B" opacity="0.8" />
+            <circle cx="115" cy="162" r="4" fill="#EAC403" opacity="0.75" />
+            <circle cx="98" cy="180" r="5" fill="#F5D76B" opacity="0.8" />
+            <circle cx="112" cy="195" r="4" fill="#EAC403" opacity="0.7" />
+            <circle cx="85" cy="215" r="4" fill="#F5D76B" opacity="0.75" />
+            <circle cx="72" cy="235" r="5" fill="#F5D76B" opacity="0.8" />
+            <circle cx="88" cy="248" r="3" fill="#EAC403" opacity="0.65" />
+            <circle cx="62" cy="268" r="4" fill="#F5D76B" opacity="0.75" />
+            <circle cx="48" cy="290" r="4" fill="#F5D76B" opacity="0.8" />
+            <circle cx="65" cy="302" r="3" fill="#EAC403" opacity="0.6" />
+            <circle cx="40" cy="320" r="4" fill="#F5D76B" opacity="0.7" />
+            <circle cx="28" cy="345" r="3" fill="#EAC403" opacity="0.6" />
+        </svg>
     </div>
-    <div class="fact-card"><span class="fact-icon">&#127803;</span>
-      <div class="fact-text">В Италии женщинам дарят <strong>мимозу</strong> — традицию начали итальянские феминистки в 1946 году.</div>
+    <!-- ===== BACKGROUND MIMOSA - RIGHT ===== -->
+    <div class="bg-mimosa right">
+        <svg width="260" height="380" viewBox="0 0 260 380" fill="none">
+            <path d="M240 380 Q220 300,190 240 Q170 200,150 160 Q135 130,120 95 Q105 60,90 20" stroke="#5A613B" stroke-width="2" stroke-linecap="round" fill="none" />
+            <ellipse cx="175" cy="215" rx="23" ry="5" transform="rotate(35 175 215)" fill="#5A613B" opacity="0.4" />
+            <ellipse cx="140" cy="145" rx="20" ry="5" transform="rotate(45 140 145)" fill="#5A613B" opacity="0.4" />
+            <ellipse cx="200" cy="260" rx="22" ry="5" transform="rotate(25 200 260)" fill="#5A613B" opacity="0.3" />
+            <circle cx="90" cy="20" r="6" fill="#F5D76B" opacity="0.9" />
+            <circle cx="102" cy="38" r="5" fill="#EAC403" opacity="0.85" />
+            <circle cx="82" cy="45" r="4" fill="#F5D76B" opacity="0.8" />
+            <circle cx="112" cy="58" r="6" fill="#F5D76B" opacity="0.9" />
+            <circle cx="95" cy="68" r="4" fill="#EAC403" opacity="0.75" />
+            <circle cx="122" cy="82" r="5" fill="#F5D76B" opacity="0.85" />
+            <circle cx="108" cy="95" r="4" fill="#EAC403" opacity="0.7" />
+            <circle cx="135" cy="110" r="5" fill="#F5D76B" opacity="0.85" />
+            <circle cx="120" cy="125" r="4" fill="#F5D76B" opacity="0.8" />
+            <circle cx="145" cy="142" r="4" fill="#EAC403" opacity="0.75" />
+            <circle cx="162" cy="160" r="5" fill="#F5D76B" opacity="0.8" />
+            <circle cx="148" cy="175" r="4" fill="#EAC403" opacity="0.7" />
+            <circle cx="175" cy="195" r="4" fill="#F5D76B" opacity="0.75" />
+            <circle cx="188" cy="215" r="5" fill="#F5D76B" opacity="0.8" />
+            <circle cx="172" cy="228" r="3" fill="#EAC403" opacity="0.65" />
+            <circle cx="198" cy="248" r="4" fill="#F5D76B" opacity="0.75" />
+            <circle cx="212" cy="270" r="4" fill="#F5D76B" opacity="0.8" />
+            <circle cx="195" cy="282" r="3" fill="#EAC403" opacity="0.6" />
+            <circle cx="220" cy="300" r="4" fill="#F5D76B" opacity="0.7" />
+            <circle cx="232" cy="325" r="3" fill="#EAC403" opacity="0.6" />
+        </svg>
     </div>
-    <div class="fact-card"><span class="fact-icon">&#9728;</span>
-      <div class="fact-text">В Китае женщины получают <strong>полдня выходного</strong> 8 марта, а мужчины работают.</div>
+    <!-- ===== CORNER FLOWERS - FOREGROUND ===== -->
+    <div class="corner-flower left">
+        <svg width="220" height="320" viewBox="0 0 220 320" fill="none">
+            <path d="M10 320 Q30 240,60 180 Q80 140,100 100 Q115 70,130 35" stroke="#5A613B" stroke-width="3" stroke-linecap="round" />
+            <ellipse cx="75" cy="155" rx="20" ry="5" transform="rotate(-35 75 155)" fill="#5A613B" opacity="0.3" />
+            <ellipse cx="105" cy="95" rx="18" ry="4" transform="rotate(-45 105 95)" fill="#5A613B" opacity="0.3" />
+            <ellipse cx="55" cy="195" rx="18" ry="4" transform="rotate(-25 55 195)" fill="#5A613B" opacity="0.25" />
+            <circle cx="130" cy="35" r="8" fill="#F5D76B" opacity="0.85" />
+            <circle cx="118" cy="50" r="7" fill="#EAC403" opacity="0.8" />
+            <circle cx="138" cy="55" r="6" fill="#F5D76B" opacity="0.75" />
+            <circle cx="110" cy="65" r="8" fill="#F5D76B" opacity="0.85" />
+            <circle cx="128" cy="72" r="6" fill="#EAC403" opacity="0.7" />
+            <circle cx="100" cy="80" r="7" fill="#F5D76B" opacity="0.8" />
+            <circle cx="115" cy="88" r="5" fill="#EAC403" opacity="0.65" />
+            <circle cx="90" cy="95" r="7" fill="#F5D76B" opacity="0.8" />
+            <circle cx="105" cy="102" r="6" fill="#F5D76B" opacity="0.75" />
+            <circle cx="80" cy="115" r="6" fill="#EAC403" opacity="0.7" />
+            <circle cx="70" cy="130" r="7" fill="#F5D76B" opacity="0.75" />
+            <circle cx="85" cy="135" r="5" fill="#EAC403" opacity="0.6" />
+            <circle cx="60" cy="148" r="6" fill="#F5D76B" opacity="0.7" />
+            <circle cx="50" cy="165" r="7" fill="#F5D76B" opacity="0.75" />
+            <circle cx="65" cy="170" r="5" fill="#EAC403" opacity="0.6" />
+            <circle cx="42" cy="185" r="6" fill="#F5D76B" opacity="0.7" />
+            <circle cx="35" cy="200" r="5" fill="#EAC403" opacity="0.6" />
+        </svg>
     </div>
-    <div class="fact-card"><span class="fact-icon">&#128197;</span>
-      <div class="fact-text"><strong>Международный мужской день</strong> — 19 ноября, но он менее известен и не признан ООН.</div>
+    <div class="corner-flower right">
+        <svg width="200" height="300" viewBox="0 0 200 300" fill="none">
+            <path d="M140 300 L140 130" stroke="#5A613B" stroke-width="3" stroke-linecap="round" />
+            <path d="M140 200 Q110 180,100 210" stroke="#5A613B" stroke-width="2" />
+            <ellipse cx="105" cy="205" rx="12" ry="5" fill="#5A613B" opacity="0.3" />
+            <path d="M140 130 Q140 70,110 50 Q100 45,105 65 Q108 85,140 130" fill="#EF5350" opacity="0.7" />
+            <path d="M140 130 Q140 70,170 50 Q180 45,175 65 Q172 85,140 130" fill="#E53935" opacity="0.6" />
+            <path d="M140 130 Q140 65,140 40 Q135 33,132 55 Q134 85,140 130" fill="#F44336" opacity="0.65" />
+            <path d="M70 300 L70 150" stroke="#5A613B" stroke-width="3" stroke-linecap="round" />
+            <path d="M70 230 Q100 210,108 240" stroke="#5A613B" stroke-width="2" />
+            <ellipse cx="103" cy="235" rx="10" ry="4" fill="#5A613B" opacity="0.3" />
+            <path d="M70 150 Q70 90,42 70 Q33 65,38 85 Q42 105,70 150" fill="#F5D76B" opacity="0.75" />
+            <path d="M70 150 Q70 90,98 70 Q107 65,102 85 Q98 105,70 150" fill="#EAC403" opacity="0.65" />
+            <path d="M70 150 Q70 85,70 60 Q66 53,63 75 Q65 100,70 150" fill="#F5D76B" opacity="0.7" />
+            <path d="M175 300 L175 180" stroke="#5A613B" stroke-width="2.5" stroke-linecap="round" />
+            <path d="M175 180 Q175 135,155 118 Q148 114,152 132 Q156 148,175 180" fill="#EC407A" opacity="0.6" />
+            <path d="M175 180 Q175 135,195 118 Q202 114,198 132 Q194 148,175 180" fill="#F06292" opacity="0.55" />
+            <path d="M175 180 Q175 130,175 112 Q172 106,169 125 Q170 148,175 180" fill="#E91E63" opacity="0.6" />
+        </svg>
     </div>
-  </div>
-</div>
-
-<!-- QUIZ -->
-<div class="quiz-section">
-  <h2 class="section-title">Викторина</h2>
-  <p class="quiz-subtitle">5 вопросов — проверь свои знания о 8 марта!</p>
-  <div class="quiz-card">
-    <div class="quiz-progress" id="quizProgress"></div>
-    <div id="quizArea"></div>
-    <div class="quiz-result" id="quizResult">
-      <div class="result-circle">
-        <span class="result-num" id="resultNum">0</span>
-        <span class="result-of">из 5</span>
-      </div>
-      <div class="result-msg" id="resultMsg"></div>
-      <button class="restart-btn" onclick="startQuiz()">Пройти ещё раз</button>
+    <!-- HERO -->
+    <div class="hero">
+        <h1>История 8 Марта</h1>
+        <p class="subtitle">От борьбы за права — к празднику весны и любви</p>
+        <div class="hand-divider"></div>
     </div>
-  </div>
-</div>
-
-<!-- FOOTER -->
-<div class="footer">
-  <div class="footer-title">С праздником! &#127799;</div>
-  <p>Сделано с любовью к истории и дизайну</p>
-  <span class="vibe-tag">VIBE CODED — spring floral style</span>
-</div>
-@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&family=Inter:wght@400;500;600;700;800&display=swap");
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: "Inter", sans-serif;
-  background-color: #bcc4b9;
-  min-height: 100vh;
-  overflow-x: hidden;
-  color: #2c2f1e;
-  font-size: 18px;
-  position: relative;
-}
-
-/* ========== BACKGROUND MIMOSA BRANCHES ========== */
-.bg-mimosa {
-  position: fixed;
-  z-index: 0;
-  pointer-events: none;
-  opacity: 0.12;
-  animation: sway 8s ease-in-out infinite alternate;
-}
-
-.bg-mimosa.left {
-  bottom: 0;
-  left: 5%;
-  transform-origin: bottom left;
-  animation-delay: 0s;
-}
-
-.bg-mimosa.right {
-  bottom: 0;
-  right: 8%;
-  transform-origin: bottom right;
-  animation-delay: -4s;
-}
-
-@keyframes sway {
-  0% {
-    transform: rotate(-0.5deg) translateX(0);
-  }
-  100% {
-    transform: rotate(0.8deg) translateX(3px);
-  }
-}
-
-/* ========== FLOATING POLLEN ========== */
-.pollen-container {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  pointer-events: none;
-  z-index: 1;
-  overflow: hidden;
-}
-
-.pollen {
-  position: absolute;
-  width: 4px;
-  height: 4px;
-  background: radial-gradient(
-    circle,
-    #f5d76b 0%,
-    #eac403 60%,
-    transparent 100%
-  );
-  border-radius: 50%;
-  opacity: 0;
-  animation: float-pollen 15s ease-in-out infinite;
-  filter: blur(0.5px);
-}
-
-.pollen:nth-child(1) {
-  left: 10%;
-  top: 20%;
-  animation-delay: 0s;
-  animation-duration: 18s;
-  width: 5px;
-  height: 5px;
-}
-.pollen:nth-child(2) {
-  left: 25%;
-  top: 10%;
-  animation-delay: -3s;
-  animation-duration: 22s;
-  width: 3px;
-  height: 3px;
-}
-.pollen:nth-child(3) {
-  left: 40%;
-  top: 30%;
-  animation-delay: -6s;
-  animation-duration: 16s;
-  width: 6px;
-  height: 6px;
-}
-.pollen:nth-child(4) {
-  left: 60%;
-  top: 15%;
-  animation-delay: -9s;
-  animation-duration: 20s;
-  width: 4px;
-  height: 4px;
-}
-.pollen:nth-child(5) {
-  left: 75%;
-  top: 25%;
-  animation-delay: -12s;
-  animation-duration: 19s;
-  width: 5px;
-  height: 5px;
-}
-.pollen:nth-child(6) {
-  left: 90%;
-  top: 35%;
-  animation-delay: -2s;
-  animation-duration: 17s;
-  width: 3px;
-  height: 3px;
-}
-.pollen:nth-child(7) {
-  left: 15%;
-  top: 50%;
-  animation-delay: -5s;
-  animation-duration: 21s;
-  width: 4px;
-  height: 4px;
-}
-.pollen:nth-child(8) {
-  left: 50%;
-  top: 45%;
-  animation-delay: -8s;
-  animation-duration: 23s;
-  width: 5px;
-  height: 5px;
-}
-.pollen:nth-child(9) {
-  left: 80%;
-  top: 55%;
-  animation-delay: -11s;
-  animation-duration: 18s;
-  width: 3px;
-  height: 3px;
-}
-.pollen:nth-child(10) {
-  left: 30%;
-  top: 70%;
-  animation-delay: -4s;
-  animation-duration: 20s;
-  width: 4px;
-  height: 4px;
-}
-.pollen:nth-child(11) {
-  left: 55%;
-  top: 65%;
-  animation-delay: -7s;
-  animation-duration: 19s;
-  width: 5px;
-  height: 5px;
-}
-.pollen:nth-child(12) {
-  left: 85%;
-  top: 80%;
-  animation-delay: -10s;
-  animation-duration: 22s;
-  width: 3px;
-  height: 3px;
-}
-
-@keyframes float-pollen {
-  0% {
-    opacity: 0;
-    transform: translateY(100vh) translateX(0) scale(0.8);
-  }
-  10% {
-    opacity: 0.7;
-  }
-  50% {
-    opacity: 1;
-    transform: translateY(50vh) translateX(20px) scale(1);
-  }
-  90% {
-    opacity: 0.6;
-  }
-  100% {
-    opacity: 0;
-    transform: translateY(-20vh) translateX(-15px) scale(0.9);
-  }
-}
-
-/* ========== FALLING FLOWERS ========== */
-.falling-flowers {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  pointer-events: none;
-  z-index: 1;
-  overflow: hidden;
-}
-
-.falling-flower {
-  position: absolute;
-  top: -30px;
-  font-size: 20px;
-  opacity: 0;
-  animation: fall-flower linear infinite;
-  filter: drop-shadow(0 2px 4px rgba(90, 97, 59, 0.2));
-}
-
-.falling-flower:nth-child(1) {
-  left: 5%;
-  animation-delay: 0s;
-  animation-duration: 12s;
-  font-size: 18px;
-}
-.falling-flower:nth-child(2) {
-  left: 12%;
-  animation-delay: -3s;
-  animation-duration: 15s;
-  font-size: 22px;
-}
-.falling-flower:nth-child(3) {
-  left: 20%;
-  animation-delay: -6s;
-  animation-duration: 11s;
-  font-size: 16px;
-}
-.falling-flower:nth-child(4) {
-  left: 28%;
-  animation-delay: -9s;
-  animation-duration: 14s;
-  font-size: 24px;
-}
-.falling-flower:nth-child(5) {
-  left: 35%;
-  animation-delay: -12s;
-  animation-duration: 13s;
-  font-size: 20px;
-}
-.falling-flower:nth-child(6) {
-  left: 42%;
-  animation-delay: -2s;
-  animation-duration: 16s;
-  font-size: 18px;
-}
-.falling-flower:nth-child(7) {
-  left: 50%;
-  animation-delay: -5s;
-  animation-duration: 12s;
-  font-size: 22px;
-}
-.falling-flower:nth-child(8) {
-  left: 58%;
-  animation-delay: -8s;
-  animation-duration: 14s;
-  font-size: 16px;
-}
-.falling-flower:nth-child(9) {
-  left: 65%;
-  animation-delay: -11s;
-  animation-duration: 15s;
-  font-size: 24px;
-}
-.falling-flower:nth-child(10) {
-  left: 72%;
-  animation-delay: -4s;
-  animation-duration: 13s;
-  font-size: 20px;
-}
-.falling-flower:nth-child(11) {
-  left: 80%;
-  animation-delay: -7s;
-  animation-duration: 11s;
-  font-size: 18px;
-}
-.falling-flower:nth-child(12) {
-  left: 88%;
-  animation-delay: -10s;
-  animation-duration: 16s;
-  font-size: 22px;
-}
-.falling-flower:nth-child(13) {
-  left: 15%;
-  animation-delay: -1s;
-  animation-duration: 14s;
-  font-size: 16px;
-}
-.falling-flower:nth-child(14) {
-  left: 45%;
-  animation-delay: -4s;
-  animation-duration: 12s;
-  font-size: 20px;
-}
-.falling-flower:nth-child(15) {
-  left: 75%;
-  animation-delay: -7s;
-  animation-duration: 15s;
-  font-size: 18px;
-}
-
-@keyframes fall-flower {
-  0% {
-    opacity: 0;
-    transform: translateY(-30px) rotate(0deg) translateX(0);
-  }
-  10% {
-    opacity: 0.8;
-  }
-  50% {
-    opacity: 1;
-    transform: translateY(50vh) rotate(180deg) translateX(30px);
-  }
-  90% {
-    opacity: 0.7;
-  }
-  100% {
-    opacity: 0;
-    transform: translateY(100vh) rotate(360deg) translateX(-20px);
-  }
-}
-
-/* ========== CORNER FLOWERS ========== */
-.corner-flower {
-  position: fixed;
-  z-index: 2;
-  pointer-events: none;
-}
-
-.corner-flower.left {
-  top: 0;
-  left: 0;
-}
-.corner-flower.right {
-  top: 0;
-  right: 0;
-}
-
-/* ========== HERO ========== */
-.hero {
-  text-align: center;
-  padding: 80px 20px 40px;
-  position: relative;
-  z-index: 2;
-}
-
-.hero h1 {
-  font-family: "Caveat", cursive;
-  font-size: 4em;
-  font-weight: 700;
-  color: #3a3f25;
-  margin-bottom: 12px;
-  text-shadow: 0 2px 15px rgba(245, 215, 107, 0.3);
-  animation: fadeInDown 0.8s ease;
-}
-
-@keyframes fadeInDown {
-  from {
-    opacity: 0;
-    transform: translateY(-20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.hero .subtitle {
-  font-size: 1.2em;
-  color: #5a613b;
-  animation: fadeInUp 0.8s ease 0.2s both;
-}
-
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.hand-divider {
-  display: block;
-  margin: 25px auto;
-  width: 180px;
-  height: 3px;
-  background: linear-gradient(90deg, transparent, #b78002, transparent);
-  border-radius: 2px;
-  animation: expandWidth 1s ease 0.4s both;
-}
-
-@keyframes expandWidth {
-  from {
-    width: 0;
-    opacity: 0;
-  }
-  to {
-    width: 180px;
-    opacity: 1;
-  }
-}
-
-/* ========== EVOLUTION ========== */
-.evolution-section {
-  max-width: 900px;
-  margin: 0 auto 40px;
-  padding: 20px;
-  position: relative;
-  z-index: 2;
-  animation: fadeInUp 0.8s ease 0.3s both;
-}
-
-.section-title {
-  text-align: center;
-  font-family: "Caveat", cursive;
-  font-size: 2.4em;
-  color: #3a3f25;
-  margin-bottom: 25px;
-}
-
-.evolution-bar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background: rgba(255, 255, 255, 0.45);
-  border: 1.5px solid rgba(90, 97, 59, 0.2);
-  border-radius: 60px;
-  padding: 18px 30px;
-  box-shadow: 0 4px 20px rgba(90, 97, 59, 0.08);
-}
-
-.evolution-stage {
-  text-align: center;
-  flex: 1;
-  transition: transform 0.3s ease;
-}
-
-.evolution-stage:hover {
-  transform: translateY(-3px);
-}
-.evolution-stage:hover .stage-icon {
-  transform: scale(1.2) rotate(5deg);
-}
-
-.evolution-stage .stage-icon {
-  font-size: 2em;
-  display: block;
-  transition: transform 0.3s ease;
-}
-
-.evolution-stage .stage-label {
-  font-family: "Caveat", cursive;
-  font-size: 1.1em;
-  color: #5a613b;
-  font-weight: 600;
-  margin-top: 5px;
-}
-
-.arrow {
-  font-size: 1.5em;
-  color: #b78002;
-  opacity: 0.4;
-  animation: pulse 2s ease-in-out infinite;
-}
-
-@keyframes pulse {
-  0%,
-  100% {
-    opacity: 0.3;
-    transform: scale(1);
-  }
-  50% {
-    opacity: 0.6;
-    transform: scale(1.1);
-  }
-}
-
-/* ========== TIMELINE ========== */
-.timeline-section {
-  position: relative;
-  z-index: 2;
-  padding: 40px 0 30px;
-}
-
-.timeline-scroll-wrapper {
-  overflow-x: auto;
-  overflow-y: visible;
-  padding: 30px 40px 50px;
-  scrollbar-width: thin;
-  scrollbar-color: #b78002 rgba(202, 209, 201, 0.5);
-}
-
-.timeline-scroll-wrapper::-webkit-scrollbar {
-  height: 6px;
-}
-.timeline-scroll-wrapper::-webkit-scrollbar-track {
-  background: rgba(202, 209, 201, 0.5);
-}
-.timeline-scroll-wrapper::-webkit-scrollbar-thumb {
-  background: #b78002;
-  border-radius: 3px;
-}
-
-.timeline-track {
-  display: flex;
-  align-items: center;
-  position: relative;
-  min-width: max-content;
-  padding: 0 20px;
-}
-
-.timeline-track::before {
-  content: "";
-  position: absolute;
-  top: 65px;
-  left: 40px;
-  height: 3px;
-  background: repeating-linear-gradient(
-    to right,
-    rgba(183, 128, 2, 0.5) 0px,
-    rgba(183, 128, 2, 0.5) 12px,
-    transparent 12px,
-    transparent 22px
-  );
-  width: 0;
-  animation: drawLine 2.5s ease-out forwards 0.5s;
-}
-
-@keyframes drawLine {
-  to {
-    width: calc(100% - 80px);
-  }
-}
-
-/* ===== CIRCLE NODE ===== */
-.timeline-node {
-  position: relative;
-  z-index: 2;
-  margin: 0 20px;
-  flex-shrink: 0;
-  animation: popIn 0.5s ease both;
-}
-
-.timeline-node:nth-child(1) {
-  animation-delay: 0.6s;
-}
-.timeline-node:nth-child(2) {
-  animation-delay: 0.7s;
-}
-.timeline-node:nth-child(3) {
-  animation-delay: 0.8s;
-}
-.timeline-node:nth-child(4) {
-  animation-delay: 0.9s;
-}
-.timeline-node:nth-child(5) {
-  animation-delay: 1s;
-}
-.timeline-node:nth-child(6) {
-  animation-delay: 1.1s;
-}
-.timeline-node:nth-child(7) {
-  animation-delay: 1.2s;
-}
-.timeline-node:nth-child(8) {
-  animation-delay: 1.3s;
-}
-.timeline-node:nth-child(9) {
-  animation-delay: 1.4s;
-}
-
-@keyframes popIn {
-  0% {
-    opacity: 0;
-    transform: scale(0.5);
-  }
-  60% {
-    transform: scale(1.1);
-  }
-  100% {
-    opacity: 1;
-    transform: scale(1);
-  }
-}
-
-.timeline-circle {
-  width: 130px;
-  height: 130px;
-  border-radius: 50%;
-  background: rgba(255, 255, 255, 0.75);
-  border: 3px solid rgba(183, 128, 2, 0.45);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  position: relative;
-  box-shadow: 0 4px 15px rgba(90, 97, 59, 0.1);
-}
-
-.timeline-circle:hover {
-  transform: scale(1.1);
-  border-color: #eac403;
-  background: rgba(245, 215, 107, 0.3);
-  box-shadow: 0 0 25px rgba(234, 196, 3, 0.3);
-}
-
-.timeline-circle.active {
-  border-color: #eac403;
-  background: rgba(245, 215, 107, 0.35);
-  box-shadow: 0 0 30px rgba(234, 196, 3, 0.4);
-  transform: scale(1.08);
-}
-
-.timeline-circle .circle-year {
-  font-family: "Caveat", cursive;
-  font-size: 1.8em;
-  font-weight: 700;
-  color: #3a3f25;
-  line-height: 1;
-}
-
-.timeline-circle .circle-era {
-  font-size: 0.5em;
-  color: #5a613b;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-weight: 600;
-  margin-top: 3px;
-}
-
-.timeline-circle .circle-hint {
-  font-family: "Caveat", cursive;
-  font-size: 0.55em;
-  color: #b78002;
-  margin-top: 4px;
-  opacity: 0.7;
-  transition: opacity 0.3s;
-}
-
-.timeline-circle:hover .circle-hint {
-  opacity: 1;
-}
-
-.scroll-hint {
-  text-align: center;
-  color: #5a613b;
-  font-size: 0.85em;
-  margin-top: 10px;
-  opacity: 0.6;
-  animation: bounce 2s infinite;
-}
-
-@keyframes bounce {
-  0%,
-  100% {
-    transform: translateX(0);
-  }
-  50% {
-    transform: translateX(8px);
-  }
-}
-
-/* ========== INFO CARD ========== */
-.info-card-wrapper {
-  max-width: 750px;
-  margin: 0 auto;
-  padding: 0 20px 40px;
-  position: relative;
-  z-index: 2;
-}
-
-.info-card {
-  background: rgba(255, 255, 255, 0.7);
-  border: 2px solid rgba(183, 128, 2, 0.3);
-  border-radius: 16px;
-  padding: 30px;
-  box-shadow: 0 8px 30px rgba(90, 97, 59, 0.1);
-  display: none;
-  animation: fadeSlideIn 0.4s ease;
-}
-
-.info-card.show {
-  display: block;
-}
-
-@keyframes fadeSlideIn {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-.info-card .info-header {
-  display: flex;
-  align-items: center;
-  gap: 15px;
-  margin-bottom: 15px;
-}
-
-.info-card .info-year {
-  font-family: "Caveat", cursive;
-  font-size: 2.8em;
-  font-weight: 700;
-  color: #3a3f25;
-  line-height: 1;
-}
-
-.info-card .info-era {
-  display: inline-block;
-  padding: 3px 12px;
-  border: 1.5px solid rgba(90, 97, 59, 0.25);
-  border-radius: 4px;
-  font-size: 0.7em;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: #5a613b;
-  background: rgba(245, 215, 107, 0.15);
-}
-
-.info-card .info-title {
-  font-size: 1.3em;
-  font-weight: 700;
-  color: #3a3f25;
-  margin-bottom: 12px;
-  line-height: 1.3;
-}
-
-.info-card .info-desc {
-  font-size: 1em;
-  color: #5a613b;
-  line-height: 1.8;
-  margin-bottom: 12px;
-}
-
-.info-card .info-details {
-  padding: 15px 18px;
-  background: rgba(245, 215, 107, 0.1);
-  border-left: 3px solid #eac403;
-  border-radius: 0 8px 8px 0;
-}
-
-.info-card .info-details p {
-  font-size: 0.95em;
-  color: #5a613b;
-  line-height: 1.8;
-  font-style: italic;
-}
-
-.info-card .close-info {
-  display: inline-block;
-  margin-top: 15px;
-  padding: 10px 25px;
-  background: #5a613b;
-  color: #fff;
-  border: none;
-  border-radius: 8px;
-  font-size: 0.9em;
-  font-weight: 600;
-  cursor: pointer;
-  transition: background 0.2s;
-}
-
-.info-card .close-info:hover {
-  background: #b78002;
-}
-
-/* ========== FACTS ========== */
-.facts-section {
-  max-width: 950px;
-  margin: 40px auto;
-  padding: 20px;
-  z-index: 2;
-  position: relative;
-}
-
-.facts-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
-  gap: 20px;
-}
-
-.fact-card {
-  background: rgba(255, 255, 255, 0.55);
-  border: 1.5px solid rgba(90, 97, 59, 0.15);
-  border-radius: 12px;
-  padding: 25px;
-  text-align: center;
-  transition: all 0.3s;
-  box-shadow: 0 2px 12px rgba(90, 97, 59, 0.06);
-  animation: fadeInUp 0.6s ease both;
-}
-
-.fact-card:nth-child(1) {
-  animation-delay: 0.1s;
-}
-.fact-card:nth-child(2) {
-  animation-delay: 0.2s;
-}
-.fact-card:nth-child(3) {
-  animation-delay: 0.3s;
-}
-.fact-card:nth-child(4) {
-  animation-delay: 0.4s;
-}
-.fact-card:nth-child(5) {
-  animation-delay: 0.5s;
-}
-.fact-card:nth-child(6) {
-  animation-delay: 0.6s;
-}
-
-.fact-card:hover {
-  transform: translateY(-4px);
-  border-color: rgba(234, 196, 3, 0.4);
-  box-shadow: 0 8px 25px rgba(90, 97, 59, 0.12);
-}
-
-.fact-card .fact-icon {
-  font-size: 2.2em;
-  margin-bottom: 10px;
-  display: block;
-  animation: float-icon 3s ease-in-out infinite;
-}
-
-.fact-card:nth-child(odd) .fact-icon {
-  animation-delay: 0s;
-}
-.fact-card:nth-child(even) .fact-icon {
-  animation-delay: -1.5s;
-}
-
-@keyframes float-icon {
-  0%,
-  100% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-5px);
-  }
-}
-
-.fact-card .fact-text {
-  color: #5a613b;
-  line-height: 1.7;
-  font-size: 0.95em;
-}
-
-.fact-card .fact-text strong {
-  color: #3a3f25;
-}
-
-/* ========== QUIZ ========== */
-.quiz-section {
-  max-width: 700px;
-  margin: 40px auto;
-  padding: 20px;
-  z-index: 2;
-  position: relative;
-}
-
-.quiz-card {
-  background: rgba(255, 255, 255, 0.55);
-  border: 1.5px solid rgba(90, 97, 59, 0.15);
-  border-radius: 16px;
-  padding: 30px;
-  box-shadow: 0 4px 20px rgba(90, 97, 59, 0.08);
-  position: relative;
-  overflow: hidden;
-  animation: fadeInUp 0.8s ease 0.2s both;
-}
-
-.quiz-card::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 4px;
-  background: linear-gradient(
-    90deg,
-    #5a613b,
-    #eac403,
-    #b78002,
-    #eac403,
-    #5a613b
-  );
-  background-size: 300% 100%;
-  animation: gradientShift 4s ease infinite;
-}
-
-@keyframes gradientShift {
-  0%,
-  100% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-}
-
-.quiz-subtitle {
-  text-align: center;
-  color: #5a613b;
-  margin-bottom: 25px;
-  font-size: 0.95em;
-}
-
-.quiz-progress {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  margin-bottom: 25px;
-}
-
-.quiz-dot {
-  width: 14px;
-  height: 14px;
-  border: 2px solid rgba(90, 97, 59, 0.25);
-  border-radius: 50%;
-  background: transparent;
-  transition: all 0.3s;
-}
-
-.quiz-dot.active {
-  background: #eac403;
-  border-color: #eac403;
-  box-shadow: 0 0 8px rgba(234, 196, 3, 0.4);
-  animation: pulse-dot 1s ease-in-out infinite;
-}
-
-@keyframes pulse-dot {
-  0%,
-  100% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.15);
-  }
-}
-
-.quiz-dot.correct {
-  background: #5a613b;
-  border-color: #5a613b;
-}
-.quiz-dot.wrong {
-  background: #c62828;
-  border-color: #c62828;
-}
-
-.quiz-question-text {
-  font-family: "Caveat", cursive;
-  font-size: 1.7em;
-  color: #3a3f25;
-  margin-bottom: 20px;
-  line-height: 1.3;
-}
-
-.quiz-question-text .qnum {
-  color: #b78002;
-  font-weight: 700;
-}
-
-.quiz-options-list {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  margin-bottom: 15px;
-}
-
-.quiz-opt {
-  padding: 14px 18px;
-  border: 1.5px solid rgba(90, 97, 59, 0.2);
-  border-radius: 10px;
-  cursor: pointer;
-  font-size: 1em;
-  transition: all 0.2s;
-  background: rgba(255, 255, 255, 0.5);
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  color: #3a3f25;
-}
-
-.quiz-opt .opt-letter {
-  width: 30px;
-  height: 30px;
-  border: 2px solid rgba(90, 97, 59, 0.25);
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: 700;
-  font-size: 0.85em;
-  flex-shrink: 0;
-  transition: all 0.2s;
-}
-
-.quiz-opt:hover {
-  background: rgba(245, 215, 107, 0.15);
-  border-color: rgba(183, 128, 2, 0.3);
-  transform: translateX(5px);
-}
-
-.quiz-opt.is-correct {
-  border-color: #5a613b;
-  background: rgba(90, 97, 59, 0.12);
-  animation: correctBounce 0.4s ease;
-}
-
-@keyframes correctBounce {
-  0%,
-  100% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.03);
-  }
-}
-
-.quiz-opt.is-correct .opt-letter {
-  background: #5a613b;
-  color: #fff;
-  border-color: #5a613b;
-}
-
-.quiz-opt.is-wrong {
-  border-color: #c62828;
-  background: rgba(198, 40, 40, 0.06);
-  text-decoration: line-through;
-  opacity: 0.6;
-  animation: shake 0.4s ease;
-}
-
-@keyframes shake {
-  0%,
-  100% {
-    transform: translateX(0);
-  }
-  25% {
-    transform: translateX(-5px);
-  }
-  75% {
-    transform: translateX(5px);
-  }
-}
-
-.quiz-opt.no-click {
-  pointer-events: none;
-}
-
-.quiz-explain {
-  padding: 12px 15px;
-  border-left: 3px solid #eac403;
-  background: rgba(245, 215, 107, 0.08);
-  border-radius: 0 8px 8px 0;
-  font-size: 0.9em;
-  color: #5a613b;
-  line-height: 1.6;
-  margin-bottom: 15px;
-  display: none;
-  animation: slideInLeft 0.3s ease;
-}
-
-@keyframes slideInLeft {
-  from {
-    opacity: 0;
-    transform: translateX(-10px);
-  }
-  to {
-    opacity: 1;
-    transform: translateX(0);
-  }
-}
-
-.quiz-explain.visible {
-  display: block;
-}
-
-.quiz-btn {
-  display: none;
-  padding: 12px 30px;
-  background: #5a613b;
-  color: #fff;
-  border: none;
-  border-radius: 10px;
-  font-size: 1em;
-  font-weight: 600;
-  cursor: pointer;
-  transition: background 0.2s;
-}
-
-.quiz-btn:hover {
-  background: #b78002;
-  transform: translateY(-2px);
-}
-.quiz-btn.visible {
-  display: inline-block;
-  animation: fadeInUp 0.3s ease;
-}
-
-.quiz-result {
-  text-align: center;
-  display: none;
-}
-
-.quiz-result.visible {
-  display: block;
-  animation: fadeInUp 0.5s ease;
-}
-
-.result-circle {
-  width: 120px;
-  height: 120px;
-  border: 3px solid #eac403;
-  border-radius: 50%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  margin: 20px auto;
-  box-shadow: 0 0 25px rgba(234, 196, 3, 0.2);
-  background: rgba(245, 215, 107, 0.1);
-  animation: pulse-circle 2s ease-in-out infinite;
-}
-
-@keyframes pulse-circle {
-  0%,
-  100% {
-    box-shadow: 0 0 25px rgba(234, 196, 3, 0.2);
-  }
-  50% {
-    box-shadow: 0 0 40px rgba(234, 196, 3, 0.5);
-  }
-}
-
-.result-num {
-  font-family: "Caveat", cursive;
-  font-size: 2.8em;
-  font-weight: 700;
-  color: #3a3f25;
-  line-height: 1;
-}
-
-.result-of {
-  font-size: 0.85em;
-  color: #5a613b;
-}
-.result-msg {
-  font-family: "Caveat", cursive;
-  font-size: 1.5em;
-  color: #b78002;
-  margin: 12px 0;
-}
-
-.restart-btn {
-  padding: 12px 30px;
-  background: transparent;
-  color: #5a613b;
-  border: 2px solid #5a613b;
-  border-radius: 10px;
-  font-size: 1em;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.2s;
-}
-
-.restart-btn:hover {
-  background: #5a613b;
-  color: #fff;
-  transform: translateY(-2px);
-}
-
-/* ========== FOOTER ========== */
-.footer {
-  text-align: center;
-  padding: 40px 20px;
-  color: #5a613b;
-  position: relative;
-  z-index: 2;
-  border-top: 1px solid rgba(90, 97, 59, 0.15);
-  max-width: 900px;
-  margin: 20px auto 0;
-  animation: fadeInUp 0.8s ease 0.4s both;
-}
-
-.footer .footer-title {
-  font-family: "Caveat", cursive;
-  font-size: 2em;
-  color: #3a3f25;
-  margin-bottom: 8px;
-}
-
-.footer .vibe-tag {
-  display: inline-block;
-  border: 1px solid rgba(90, 97, 59, 0.2);
-  padding: 4px 14px;
-  border-radius: 20px;
-  font-size: 0.7em;
-  margin-top: 10px;
-  color: #5a613b;
-  background: rgba(255, 255, 255, 0.3);
-  animation: glow 3s ease-in-out infinite;
-}
-
-@keyframes glow {
-  0%,
-  100% {
-    box-shadow: 0 0 5px rgba(234, 196, 3, 0.2);
-  }
-  50% {
-    box-shadow: 0 0 15px rgba(234, 196, 3, 0.4);
-  }
-}
-
-/* ========== RESPONSIVE ========== */
-@media (max-width: 768px) {
-  body {
-    font-size: 16px;
-  }
-  .hero h1 {
-    font-size: 2.8em;
-  }
-  .timeline-circle {
-    width: 100px;
-    height: 100px;
-  }
-  .timeline-circle .circle-year {
-    font-size: 1.4em;
-  }
-  .timeline-node {
-    margin: 0 12px;
-  }
-  .evolution-bar {
-    flex-direction: column;
-    gap: 10px;
-    padding: 18px;
-    border-radius: 20px;
-  }
-  .arrow {
-    transform: rotate(90deg);
-  }
-  .corner-flower.left svg,
-  .corner-flower.right svg {
-    width: 140px;
-    height: auto;
-  }
-  .bg-mimosa.left,
-  .bg-mimosa.right {
-    opacity: 0.08;
-  }
-  .bg-mimosa.left svg,
-  .bg-mimosa.right svg {
-    width: 180px;
-  }
-  .falling-flower {
-    font-size: 14px !important;
-  }
-}
-// ========================
-// TIMELINE DATA
-// ========================
-var DATA = [
-  {
-    year: "1857",
-    era: "Истоки",
-    title: "Марш текстильщиц в Нью-Йорке",
-    desc:
-      "8 марта работницы текстильных фабрик Нью-Йорка вышли на марш «Пустых кастрюль». Они требовали сокращения рабочего дня, улучшения условий труда и равной оплаты с мужчинами.",
-    details:
-      "Женщины требовали сокращения рабочего дня с 16 до 10 часов. Полиция разогнала демонстрацию, но это событие стало символом начала организованной борьбы женщин за свои права."
-  },
-  {
-    year: "1908",
-    era: "Борьба",
-    title: "15 000 женщин на улицах Нью-Йорка",
-    desc:
-      "Массовая демонстрация с лозунгом «Хлеба и роз!» — требования запрета детского труда, права голоса и достойных условий работы.",
-    details:
-      "«Хлеб» символизировал экономическую безопасность, а «розы» — достойное качество жизни. Этот марш вдохновил создание Национального женского дня в США в 1909 году."
-  },
-  {
-    year: "1910",
-    era: "Решение",
-    title: "Клара Цеткин предлагает праздник",
-    desc:
-      "На Второй Международной конференции женщин в Копенгагене было решено учредить Международный женский день.",
-    details:
-      "Делегатки из 17 стран единогласно поддержали. Конкретная дата не была зафиксирована — каждая страна выбирала свой день."
-  },
-  {
-    year: "1911",
-    era: "Первый",
-    title: "Первый Международный женский день",
-    desc:
-      "19 марта 1911 года праздник впервые отмечен в Германии, Австрии, Дании и Швейцарии.",
-    details:
-      "Более миллиона человек вышли на митинги. Через неделю произошёл пожар на фабрике Triangle Shirtwaist — погибли 146 работниц."
-  },
-  {
-    year: "1917",
-    era: "Революция",
-    title: "Петроград: «Хлеба и мира!»",
-    desc: "Забастовка работниц стала началом Февральской революции.",
-    details:
-      "За четыре дня протесты привели к отречению Николая II. После этого 8 марта закрепилось как постоянная дата праздника."
-  },
-  {
-    year: "1921",
-    era: "СССР",
-    title: "Официальный праздник в СССР",
-    desc: "8 марта стало государственным праздником.",
-    details:
-      "Женщины получили равные права на образование, труд, голосование. Проводились митинги и лекции о роли женщин в обществе."
-  },
-  {
-    year: "1966",
-    era: "Выходной",
-    title: "Нерабочий день в СССР",
-    desc: "8 марта стало нерабочим днём.",
-    details:
-      "Праздник стал днём женственности, материнства и весны. Появились традиции: дарить цветы, духи, готовить праздничный ужин."
-  },
-  {
-    year: "1975",
-    era: "ООН",
-    title: "Признание ООН",
-    desc: "ООН официально признала 8 марта Международным женским днём.",
-    details:
-      "1975 год был объявлен Международным годом женщин. С тех пор каждый год ООН выбирает тему для обсуждения гендерного равенства."
-  },
-  {
-    year: "2025",
-    era: "Сегодня",
-    title: "Праздник сегодня — многоликий",
-    desc:
-      "В России — праздник весны и любви. В мире — день борьбы за равенство.",
-    details:
-      "В России — тюльпаны, мимозы, подарки. В Европе — день борьбы за гендерное равенство. В Китае женщины получают полдня выходного. В Италии дарят мимозу."
-  }
-];
-
-// ========================
-// BUILD TIMELINE CIRCLES
-// ========================
-var track = document.getElementById("timelineTrack");
-var activeIndex = -1;
-
-for (var i = 0; i < DATA.length; i++) {
-  var node = document.createElement("div");
-  node.className = "timeline-node";
-
-  var circle = document.createElement("div");
-  circle.className = "timeline-circle";
-  circle.setAttribute("data-index", i);
-  circle.onclick = function () {
-    var idx = parseInt(this.getAttribute("data-index"));
-    openInfo(idx);
-  };
-
-  circle.innerHTML =
-    '<span class="circle-year">' +
-    DATA[i].year +
-    "</span>" +
-    '<span class="circle-era">' +
-    DATA[i].era +
-    "</span>" +
-    '<span class="circle-hint">смотри подробнее</span>';
-
-  node.appendChild(circle);
-  track.appendChild(node);
-}
-
-// ========================
-// OPEN / CLOSE INFO CARD
-// ========================
-function openInfo(index) {
-  activeIndex = index;
-  var d = DATA[index];
-  var card = document.getElementById("infoCard");
-  var content = document.getElementById("infoCardContent");
-
-  var circles = document.querySelectorAll(".timeline-circle");
-  for (var i = 0; i < circles.length; i++) {
-    circles[i].classList.toggle("active", i === index);
-  }
-
-  content.innerHTML =
-    '<div class="info-header">' +
-    "<div>" +
-    '<div class="info-year">' +
-    d.year +
-    "</div>" +
-    '<span class="info-era">' +
-    d.era +
-    "</span>" +
-    "</div>" +
-    "</div>" +
-    '<div class="info-title">' +
-    d.title +
-    "</div>" +
-    '<div class="info-desc">' +
-    d.desc +
-    "</div>" +
-    '<div class="info-details"><p>' +
-    d.details +
-    "</p></div>";
-
-  card.classList.remove("show");
-  void card.offsetWidth;
-  card.classList.add("show");
-  card.scrollIntoView({ behavior: "smooth", block: "nearest" });
-}
-
-function closeInfo() {
-  document.getElementById("infoCard").classList.remove("show");
-  document.querySelectorAll(".timeline-circle").forEach(function (c) {
-    c.classList.remove("active");
-  });
-  activeIndex = -1;
-}
-
-// ========================
-// QUIZ
-// ========================
-var QUIZ = [
-  {
-    q: "В каком году работницы Нью-Йорка впервые вышли на марш?",
-    opts: ["1848", "1857", "1903", "1911"],
-    ans: 1,
-    expl:
-      "В 1857 году работницы текстильных фабрик провели марш, требуя улучшения условий труда."
-  },
-  {
-    q: "Кто предложил учредить Международный женский день?",
-    opts: [
-      "Роза Люксембург",
-      "Клара Цеткин",
-      "Александра Коллонтай",
-      "Эммелин Панкхёрст"
-    ],
-    ans: 1,
-    expl:
-      "Клара Цеткин предложила это на конференции в Копенгагене в 1910 году."
-  },
-  {
-    q: "Какой цветок дарят женщинам 8 марта в Италии?",
-    opts: ["Тюльпан", "Роза", "Мимоза", "Лилия"],
-    ans: 2,
-    expl: "Мимоза — символ женского дня в Италии с 1946 года."
-  },
-  {
-    q: "В каком году ООН признала 8 марта?",
-    opts: ["1965", "1975", "1985", "1995"],
-    ans: 1,
-    expl:
-      "В 1975 году ООН объявила Международный год женщин и признала 8 марта."
-  },
-  {
-    q: "Какое событие 1917 года связано с 8 марта?",
-    opts: [
-      "Октябрьская революция",
-      "Февральская революция",
-      "Столыпинская реформа",
-      "Первая мировая война"
-    ],
-    ans: 1,
-    expl:
-      "Забастовка работниц Петрограда 8 марта стала началом Февральской революции."
-  }
-];
-
-var qIndex = 0,
-  qScore = 0,
-  qAnswered = false;
-
-function startQuiz() {
-  qIndex = 0;
-  qScore = 0;
-  qAnswered = false;
-  document.getElementById("quizResult").classList.remove("visible");
-  document.getElementById("quizArea").style.display = "block";
-  document.getElementById("quizProgress").style.display = "flex";
-  buildDots();
-  showQuestion();
-}
-
-function buildDots() {
-  var prog = document.getElementById("quizProgress");
-  prog.innerHTML = "";
-  for (var i = 0; i < QUIZ.length; i++) {
-    var dot = document.createElement("div");
-    dot.className = "quiz-dot";
-    dot.id = "qdot-" + i;
-    if (i === 0) dot.classList.add("active");
-    prog.appendChild(dot);
-  }
-}
-
-function showQuestion() {
-  qAnswered = false;
-  var q = QUIZ[qIndex],
-    letters = ["A", "B", "C", "D"];
-  var area = document.getElementById("quizArea");
-  var html =
-    '<div class="quiz-question-text"><span class="qnum">Вопрос ' +
-    (qIndex + 1) +
-    "/5:</span><br>" +
-    q.q +
-    "</div>";
-  html += '<div class="quiz-options-list" id="qOpts">';
-  for (var i = 0; i < q.opts.length; i++) {
-    html +=
-      '<div class="quiz-opt" id="qopt-' +
-      i +
-      '" onclick="pickAnswer(' +
-      i +
-      ')">' +
-      '<span class="opt-letter">' +
-      letters[i] +
-      "</span><span>" +
-      q.opts[i] +
-      "</span></div>";
-  }
-  html += '</div><div class="quiz-explain" id="qExplain">' + q.expl + "</div>";
-  html +=
-    '<button class="quiz-btn" id="qNextBtn" onclick="nextQ()">' +
-    (qIndex < 4 ? "Следующий вопрос &#8594;" : "Показать результат &#8594;") +
-    "</button>";
-  area.innerHTML = html;
-  document.querySelectorAll(".quiz-dot").forEach(function (dot, j) {
-    dot.classList.toggle("active", j === qIndex);
-  });
-}
-
-function pickAnswer(idx) {
-  if (qAnswered) return;
-  qAnswered = true;
-  var q = QUIZ[qIndex];
-  document.querySelectorAll(".quiz-opt").forEach(function (opt) {
-    opt.classList.add("no-click");
-  });
-  document.getElementById("qopt-" + q.ans).classList.add("is-correct");
-  if (idx !== q.ans) {
-    document.getElementById("qopt-" + idx).classList.add("is-wrong");
-    var dot = document.getElementById("qdot-" + qIndex);
-    if (dot) dot.classList.add("wrong");
-  } else {
-    qScore++;
-    var dot2 = document.getElementById("qdot-" + qIndex);
-    if (dot2) dot2.classList.add("correct");
-  }
-  document.getElementById("qExplain").classList.add("visible");
-  document.getElementById("qNextBtn").classList.add("visible");
-}
-
-function nextQ() {
-  qIndex++;
-  if (qIndex >= QUIZ.length) finishQuiz();
-  else showQuestion();
-}
-
-function finishQuiz() {
-  document.getElementById("quizArea").style.display = "none";
-  document.getElementById("quizProgress").style.display = "none";
-  document.getElementById("resultNum").textContent = qScore;
-  var msgs = [
-    "Не расстраивайся, теперь ты знаешь больше!",
-    "Неплохое начало! Перечитай таймлайн выше.",
-    "Средний результат — есть куда расти!",
-    "Хорошо! Ты знаешь историю!",
-    "Отлично! Почти идеально!",
-    "Превосходно! Ты настоящий эксперт!"
-  ];
-  document.getElementById("resultMsg").textContent = msgs[qScore];
-  document.getElementById("quizResult").classList.add("visible");
-}
-
-// Init
-startQuiz();
+    <!-- EVOLUTION -->
+    <div class="evolution-section">
+        <h2 class="section-title">Эволюция праздника</h2>
+        <div class="evolution-bar">
+            <div class="evolution-stage"><span class="stage-icon">&#9994;</span><span class="stage-label">Борьба</span></div>
+            <span class="arrow">&#8594;</span>
+            <div class="evolution-stage"><span class="stage-icon">&#9878;</span><span class="stage-label">Права</span></div>
+            <span class="arrow">&#8594;</span>
+            <div class="evolution-stage"><span class="stage-icon">&#127963;</span><span class="stage-label">Политика</span></div>
+            <span class="arrow">&#8594;</span>
+            <div class="evolution-stage"><span class="stage-icon">&#127799;</span><span class="stage-label">Весна</span></div>
+            <span class="arrow">&#8594;</span>
+            <div class="evolution-stage"><span class="stage-icon">&#10084;</span><span class="stage-label">Любовь</span></div>
+        </div>
+    </div>
+    <!-- TIMELINE -->
+    <div class="timeline-section">
+        <h2 class="section-title">Ключевые даты</h2>
+        <div class="timeline-scroll-wrapper">
+            <div class="timeline-track" id="timelineTrack"></div>
+        </div>
+        <div class="scroll-hint">&#8592; Листай горизонтально &#8594;</div>
+    </div>
+    <!-- INFO CARD -->
+    <div class="info-card-wrapper">
+        <div class="info-card" id="infoCard">
+            <div id="infoCardContent"></div>
+            <button class="close-info" onclick="closeInfo()">Закрыть</button>
+        </div>
+    </div>
+    <!-- FACTS -->
+    <div class="facts-section">
+        <h2 class="section-title">Интересные факты</h2>
+        <div class="facts-grid">
+            <div class="fact-card"><span class="fact-icon">&#127799;</span>
+                <div class="fact-text">В России к 8 марта продаётся более <strong>100 миллионов</strong> цветов. Тюльпаны — лидер продаж.</div>
+            </div>
+            <div class="fact-card"><span class="fact-icon">&#127758;</span>
+                <div class="fact-text">8 марта — выходной день в <strong>27 странах</strong> мира, включая Россию, Грузию, Лаос и Монголию.</div>
+            </div>
+            <div class="fact-card"><span class="fact-icon">&#128995;</span>
+                <div class="fact-text"><strong>Фиолетовый цвет</strong> — символ Международного женского дня: справедливость и достоинство.</div>
+            </div>
+            <div class="fact-card"><span class="fact-icon">&#127803;</span>
+                <div class="fact-text">В Италии женщинам дарят <strong>мимозу</strong> — традицию начали итальянские феминистки в 1946 году.</div>
+            </div>
+            <div class="fact-card"><span class="fact-icon">&#9728;</span>
+                <div class="fact-text">В Китае женщины получают <strong>полдня выходного</strong> 8 марта, а мужчины работают.</div>
+            </div>
+            <div class="fact-card"><span class="fact-icon">&#128197;</span>
+                <div class="fact-text"><strong>Международный мужской день</strong> — 19 ноября, но он менее известен и не признан ООН.</div>
+            </div>
+        </div>
+    </div>
+    <!-- QUIZ -->
+    <div class="quiz-section">
+        <h2 class="section-title">Викторина</h2>
+        <p class="quiz-subtitle">5 вопросов — проверь свои знания о 8 марта!</p>
+        <div class="quiz-card">
+            <div class="quiz-progress" id="quizProgress"></div>
+            <div id="quizArea"></div>
+            <div class="quiz-result" id="quizResult">
+                <div class="result-circle">
+                    <span class="result-num" id="resultNum">0</span>
+                    <span class="result-of">из 5</span>
+                </div>
+                <div class="result-msg" id="resultMsg"></div>
+                <button class="restart-btn" onclick="startQuiz()">Пройти ещё раз</button>
+            </div>
+        </div>
+    </div>
+    <!-- FOOTER -->
+    <div class="footer">
+        <div class="footer-title">С праздником! &#127799;</div>
+        <p>Сделано с любовью к истории и дизайну</p>
+        <span class="vibe-tag">VIBE CODED — spring floral style</span>
+    </div>
+
+    <script>
+        // ========================
+        // TIMELINE DATA
+        // ========================
+        var DATA = [{
+                year: "1857",
+                era: "Истоки",
+                title: "Марш текстильщиц в Нью-Йорке",
+                desc: "8 марта работницы текстильных фабрик Нью-Йорка вышли на марш «Пустых кастрюль». Они требовали сокращения рабочего дня, улучшения условий труда и равной оплаты с мужчинами.",
+                details: "Женщины требовали сокращения рабочего дня с 16 до 10 часов. Полиция разогнала демонстрацию, но это событие стало символом начала организованной борьбы женщин за свои права."
+            },
+            {
+                year: "1908",
+                era: "Борьба",
+                title: "15 000 женщин на улицах Нью-Йорка",
+                desc: "Массовая демонстрация с лозунгом «Хлеба и роз!» — требования запрета детского труда, права голоса и достойных условий работы.",
+                details: "«Хлеб» символизировал экономическую безопасность, а «розы» — достойное качество жизни. Этот марш вдохновил создание Национального женского дня в США в 1909 году."
+            },
+            {
+                year: "1910",
+                era: "Решение",
+                title: "Клара Цеткин предлагает праздник",
+                desc: "На Второй Международной конференции женщин в Копенгагене было решено учредить Международный женский день.",
+                details: "Делегатки из 17 стран единогласно поддержали. Конкретная дата не была зафиксирована — каждая страна выбирала свой день."
+            },
+            {
+                year: "1911",
+                era: "Первый",
+                title: "Первый Международный женский день",
+                desc: "19 марта 1911 года праздник впервые отмечен в Германии, Австрии, Дании и Швейцарии.",
+                details: "Более миллиона человек вышли на митинги. Через неделю произошёл пожар на фабрике Triangle Shirtwaist — погибли 146 работниц."
+            },
+            {
+                year: "1917",
+                era: "Революция",
+                title: "Петроград: «Хлеба и мира!»",
+                desc: "Забастовка работниц стала началом Февральской революции.",
+                details: "За четыре дня протесты привели к отречению Николая II. После этого 8 марта закрепилось как постоянная дата праздника."
+            },
+            {
+                year: "1921",
+                era: "СССР",
+                title: "Официальный праздник в СССР",
+                desc: "8 марта стало государственным праздником.",
+                details: "Женщины получили равные права на образование, труд, голосование. Проводились митинги и лекции о роли женщин в обществе."
+            },
+            {
+                year: "1966",
+                era: "Выходной",
+                title: "Нерабочий день в СССР",
+                desc: "8 марта стало нерабочим днём.",
+                details: "Праздник стал днём женственности, материнства и весны. Появились традиции: дарить цветы, духи, готовить праздничный ужин."
+            },
+            {
+                year: "1975",
+                era: "ООН",
+                title: "Признание ООН",
+                desc: "ООН официально признала 8 марта Международным женским днём.",
+                details: "1975 год был объявлен Международным годом женщин. С тех пор каждый год ООН выбирает тему для обсуждения гендерного равенства."
+            },
+            {
+                year: "2025",
+                era: "Сегодня",
+                title: "Праздник сегодня — многоликий",
+                desc: "В России — праздник весны и любви. В мире — день борьбы за равенство.",
+                details: "В России — тюльпаны, мимозы, подарки. В Европе — день борьбы за гендерное равенство. В Китае женщины получают полдня выходного. В Италии дарят мимозу."
+            }
+        ];
+        // ========================
+        // BUILD TIMELINE CIRCLES
+        // ========================
+        var track = document.getElementById("timelineTrack");
+        var activeIndex = -1;
+        for (var i = 0; i < DATA.length; i++) {
+            var node = document.createElement("div");
+            node.className = "timeline-node";
+            var circle = document.createElement("div");
+            circle.className = "timeline-circle";
+            circle.setAttribute("data-index", i);
+            circle.onclick = function() {
+                var idx = parseInt(this.getAttribute("data-index"));
+                openInfo(idx);
+            };
+            circle.innerHTML =
+                '<span class="circle-year">' +
+                DATA[i].year +
+                "</span>" +
+                '<span class="circle-era">' +
+                DATA[i].era +
+                "</span>" +
+                '<span class="circle-hint">смотри подробнее</span>';
+            node.appendChild(circle);
+            track.appendChild(node);
+        }
+        // ========================
+        // OPEN / CLOSE INFO CARD
+        // ========================
+        function openInfo(index) {
+            activeIndex = index;
+            var d = DATA[index];
+            var card = document.getElementById("infoCard");
+            var content = document.getElementById("infoCardContent");
+            var circles = document.querySelectorAll(".timeline-circle");
+            for (var i = 0; i < circles.length; i++) {
+                circles[i].classList.toggle("active", i === index);
+            }
+            content.innerHTML =
+                '<div class="info-header">' +
+                "<div>" +
+                '<div class="info-year">' +
+                d.year +
+                "</div>" +
+                '<span class="info-era">' +
+                d.era +
+                "</span>" +
+                "</div>" +
+                "</div>" +
+                '<div class="info-title">' +
+                d.title +
+                "</div>" +
+                '<div class="info-desc">' +
+                d.desc +
+                "</div>" +
+                '<div class="info-details"><p>' +
+                d.details +
+                "</p></div>";
+            card.classList.remove("show");
+            void card.offsetWidth;
+            card.classList.add("show");
+            card.scrollIntoView({
+                behavior: "smooth",
+                block: "nearest"
+            });
+        }
+
+        function closeInfo() {
+            document.getElementById("infoCard").classList.remove("show");
+            document.querySelectorAll(".timeline-circle").forEach(function(c) {
+                c.classList.remove("active");
+            });
+            activeIndex = -1;
+        }
+        // ========================
+        // QUIZ
+        // ========================
+        var QUIZ = [{
+                q: "В каком году работницы Нью-Йорка впервые вышли на марш?",
+                opts: ["1848", "1857", "1903", "1911"],
+                ans: 1,
+                expl: "В 1857 году работницы текстильных фабрик провели марш, требуя улучшения условий труда."
+            },
+            {
+                q: "Кто предложил учредить Международный женский день?",
+                opts: [
+                    "Роза Люксембург",
+                    "Клара Цеткин",
+                    "Александра Коллонтай",
+                    "Эммелин Панкхёрст"
+                ],
+                ans: 1,
+                expl: "Клара Цеткин предложила это на конференции в Копенгагене в 1910 году."
+            },
+            {
+                q: "Какой цветок дарят женщинам 8 марта в Италии?",
+                opts: ["Тюльпан", "Роза", "Мимоза", "Лилия"],
+                ans: 2,
+                expl: "Мимоза — символ женского дня в Италии с 1946 года."
+            },
+            {
+                q: "В каком году ООН признала 8 марта?",
+                opts: ["1965", "1975", "1985", "1995"],
+                ans: 1,
+                expl: "В 1975 году ООН объявила Международный год женщин и признала 8 марта."
+            },
+            {
+                q: "Какое событие 1917 года связано с 8 марта?",
+                opts: [
+                    "Октябрьская революция",
+                    "Февральская революция",
+                    "Столыпинская реформа",
+                    "Первая мировая война"
+                ],
+                ans: 1,
+                expl: "Забастовка работниц Петрограда 8 марта стала началом Февральской революции."
+            }
+        ];
+        var qIndex = 0,
+            qScore = 0,
+            qAnswered = false;
+
+        function startQuiz() {
+            qIndex = 0;
+            qScore = 0;
+            qAnswered = false;
+            document.getElementById("quizResult").classList.remove("visible");
+            document.getElementById("quizArea").style.display = "block";
+            document.getElementById("quizProgress").style.display = "flex";
+            buildDots();
+            showQuestion();
+        }
+
+        function buildDots() {
+            var prog = document.getElementById("quizProgress");
+            prog.innerHTML = "";
+            for (var i = 0; i < QUIZ.length; i++) {
+                var dot = document.createElement("div");
+                dot.className = "quiz-dot";
+                dot.id = "qdot-" + i;
+                if (i === 0) dot.classList.add("active");
+                prog.appendChild(dot);
+            }
+        }
+
+        function showQuestion() {
+            qAnswered = false;
+            var q = QUIZ[qIndex],
+                letters = ["A", "B", "C", "D"];
+            var area = document.getElementById("quizArea");
+            var html =
+                '<div class="quiz-question-text"><span class="qnum">Вопрос ' +
+                (qIndex + 1) +
+                "/5:</span><br>" +
+                q.q +
+                "</div>";
+            html += '<div class="quiz-options-list" id="qOpts">';
+            for (var i = 0; i < q.opts.length; i++) {
+                html +=
+                '<div class="quiz-opt" id="qopt-' +
+                i +
+                '" onclick="pickAnswer(' +
+                i +
+                ')">' +
+                '<span class="opt-letter">' +
+                letters[i] +
+                "</span><span>" +
+                q.opts[i] +
+                "</span></div>";
+            }
+            html += '</div><div class="quiz-explain" id="qExplain">' + q.expl + "</div>";
+            html +=
+                '<button class="quiz-btn" id="qNextBtn" onclick="nextQ()">' +
+                (qIndex < 4 ? "Следующий вопрос &#8594;" : "Показать результат &#8594;") +
+                "</button>";
+            area.innerHTML = html;
+            document.querySelectorAll(".quiz-dot").forEach(function(dot, j) {
+                dot.classList.toggle("active", j === qIndex);
+            });
+        }
+
+        function pickAnswer(idx) {
+            if (qAnswered) return;
+            qAnswered = true;
+            var q = QUIZ[qIndex];
+            document.querySelectorAll(".quiz-opt").forEach(function(opt) {
+                opt.classList.add("no-click");
+            });
+            document.getElementById("qopt-" + q.ans).classList.add("is-correct");
+            if (idx !== q.ans) {
+                document.getElementById("qopt-" + idx).classList.add("is-wrong");
+                var dot = document.getElementById("qdot-" + qIndex);
+                if (dot) dot.classList.add("wrong");
+            } else {
+                qScore++;
+                var dot2 = document.getElementById("qdot-" + qIndex);
+                if (dot2) dot2.classList.add("correct");
+            }
+            document.getElementById("qExplain").classList.add("visible");
+            document.getElementById("qNextBtn").classList.add("visible");
+        }
+
+        function nextQ() {
+            qIndex++;
+            if (qIndex >= QUIZ.length) finishQuiz();
+            else showQuestion();
+        }
+
+        function finishQuiz() {
+            document.getElementById("quizArea").style.display = "none";
+            document.getElementById("quizProgress").style.display = "none";
+            document.getElementById("resultNum").textContent = qScore;
+            var msgs = [
+                "Не расстраивайся, теперь ты знаешь больше!",
+                "Неплохое начало! Перечитай таймлайн выше.",
+                "Средний результат — есть куда расти!",
+                "Хорошо! Ты знаешь историю!",
+                "Отлично! Почти идеально!",
+                "Превосходно! Ты настоящий эксперт!"
+            ];
+            document.getElementById("resultMsg").textContent = msgs[qScore];
+            document.getElementById("quizResult").classList.add("visible");
+        }
+        // Init
+        startQuiz();
+    </script>
+</body>
+</html>
